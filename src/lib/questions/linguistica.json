@@ -1,0 +1,1335 @@
+[
+	{
+		"question": "La ‘Slavia veneta' è:",
+		"answers": [
+			"una regione della Slovenia dove si parla veneto",
+			"una regione di lingua slovena in Friuli (provincia di Udine)",
+			"una regione di lingua slovena in Veneto",
+			"una regione della ex-Iugoslavia in cui si parlava veneto"
+		]
+	},
+	{
+		"question": "La base dell'italiano moderno è:",
+		"answers": [
+			"nel fiorentino del Cinquecento",
+			"nel fiorentino del secolo XIV",
+			"nel fiorentino del secolo XVII",
+			"nel fiorentino moderno"
+		]
+	},
+	{
+		"question": "Dal XVI secolo in poi, il termine ‘dialetto' assunse un valore:",
+		"answers": [
+			"sostanzialmente uguale a quello dei secoli precedenti",
+			"discriminatorio e riferito solo alle fasce di parlanti analfabeti",
+			"nettamente migliorativo",
+			"nettamente peggiorativo"
+		]
+	},
+	{
+		"question": "Nel Principato di Monaco – indipendentemente dalla lingua nazionale – che lingua parla la maggioranza della popolazione autoctona?",
+		"answers": [
+			"il monegasco (varietà ligure occidentale)",
+			"l'italiano",
+			"il piemontese",
+			"il francese"
+		]
+	},
+	{
+		"question": "In Italia, è possibile individuare:",
+		"answers": [
+			"tre aree dialettali principali: dialetti italiani settentrionali, centro-meridionali, meridionali estremi",
+			"quattro aree dialettali principali: dialetti italiani settentrionali, toscani, centro-meridionali, insulari",
+			"tre aree dialettali principali: dialetti italiani settentrionali, gallo-italici, toscani, centro-meridionali",
+			"tre aree dialettali principali: dialetti italiani settentrionali, toscani, centro-meridionali"
+		]
+	},
+	{
+		"question": "Nella prospettiva sociolinguistica, i principali fattori di differenziazione sociale sono:",
+		"answers": [
+			"il reddito e la professione",
+			"il reddito, la professione, il grado di istruzione",
+			"il reddito, la professione e il sesso",
+			"il reddito e la classe di età"
+		]
+	},
+	{
+		"question": "Una «varietà di lingua»:",
+		"answers": [
+			"è un insieme di tratti linguistici di un sistema linguistico usato in particolari contesti comunicativi",
+			"è un insieme di tratti linguistici di un sistema linguistico all'interno del repertorio linguistico di una comunità",
+			"è un insieme di tratti linguistici di un sistema linguistico che co-occorre con un certo insieme di tratti sociali o situazionali",
+			"è un insieme di tratti sociali o situazionali di un sistema linguistico che co-occorre con un certo insieme di tratti sociali linguistici"
+		]
+	},
+	{
+		"question": "L'italiano «colto»:",
+		"answers": [
+			"è la lingua parlata dalle persone mediamente istruite",
+			"è l'italiano usato dai parlanti di livello socioculturale medio",
+			"coincide sostanzialmente con la norma cosiddetta «standard»",
+			"è caratterizzato dalla presenza di tratti sociolinguisticamente marcati"
+		]
+	},
+	{
+		"question": "Secondo Giovanni Nencioni, quali due varietà si collocherebbero agli estremi dell'asse diamesico?",
+		"answers": [
+			"parlato-parlato e parlato recitato",
+			"scritto-scritto e parlato-parlato",
+			"scritto-parlato e parlato-parlato",
+			"scritto-scritto e parlato-recitato"
+		]
+	},
+	{
+		"question": "Lo scopo delle grammatiche di oggi è quello:",
+		"answers": [
+			"di indicare ciò che è conforme alla norma e ciò che non lo è",
+			"di indicare ciò che è conforme all'uso e ciò che non lo è",
+			"di descrivere e di spiegare la competenza nativa del parlante",
+			"di descrivere la norma standard"
+		]
+	},
+	{
+		"question": "La consonanti sonore sono:",
+		"answers": [
+			"foni che prevedono l'attivazione di una fonte di rumore nel tratto fonatorio al di sopra della laringe, ma non l'attivazione della vibrazione laringea",
+			"foni che risultano dall'attivazione della vibrazione laringea, senza che nel tratto fonatorio superiore si produca nessun'altra fonte di rumore",
+			"foni prodotti senza vibrazione faringea e senza che nel tratto fonatorio superiore si produca nessun'altra fonte di rumore",
+			"foni che prevedono l'attivazione di una fonte di rumore nel tratto fonatorio al di sopra della laringe, e anche l'attivazione della vibrazione laringea"
+		]
+	},
+	{
+		"question": "Come di chiama la minima unità grafica di un sistema alfabetico?",
+		"answers": [
+			"fonema",
+			"fono",
+			"morfema",
+			"grafema"
+		]
+	},
+	{
+		"question": "Segmenti dotati di carattere distitintivo sono detti:",
+		"answers": [
+			"grafemi",
+			"foni",
+			"consonanti",
+			"fonemi"
+		]
+	},
+	{
+		"question": "In italiano, la lunghezza vocalica:",
+		"answers": [
+			"è predicibile dal contesto, dunque ha valore allofonico",
+			"è predicibile dal contesto, dunque ha valore fonologico",
+			"non è predicibile dal contesto, dunque ha valore allofonico",
+			"non è predicibile dal contesto, dunque ha valore fonologico"
+		]
+	},
+	{
+		"question": "La metafonesi è un caso di:",
+		"answers": [
+			"dissimilazione perseverativa (o progressiva)",
+			"dissimilazione anticipatoria (o regressiva)",
+			"assimilazione perseverativa (o progressiva)",
+			"assimilazione anticipatoria (o regressiva)"
+		]
+	},
+	{
+		"question": "L'inserzione di [i] nel sintagma «per iscritto» è un caso di:",
+		"answers": [
+			"epentesi",
+			"epitesi",
+			"aferesi",
+			"prostesi"
+		]
+	},
+	{
+		"question": "Un morfema a cui corrispondono diverse realizzazioni in differenti contesti sintagmatici viene detto:",
+		"answers": [
+			"allofono",
+			"allomorfo",
+			"allotropo",
+			"fonema"
+		]
+	},
+	{
+		"question": "Nelle forme «un altro» e «un'altra»:",
+		"answers": [
+			"abbiamo due fenomeni diversi, nel primo caso l'apocope, nel secondo l'elisione",
+			"abbiamo lo stesso fenomeno, l'apocope",
+			"abbiamo lo stesso fenomeno, l'elisione",
+			"abbiamo due fenomeni diversi: nel primo caso l'elisione, nel secondo l'apocope"
+		]
+	},
+	{
+		"question": "Nella parola «frattempo»:",
+		"answers": [
+			"c'è stato prima l'univerbazione e poi il il raddoppiamento fonosintattico",
+			"c'è stata prima l'assimilazione e poi l'univerbazione",
+			"c'è stato prima il raddoppiamento fonosintattico e poi l'univerbazione",
+			"c'è stata prima l'univerbazione e poi l'assimilazione"
+		]
+	},
+	{
+		"question": "Il morfema si definisce come:",
+		"answers": [
+			"la più piccola unità lessicale dotata di significato",
+			"la più piccola unità linguistica non dotata di significato",
+			"la più piccola unità linguistica dotata di significato",
+			"la più piccola unità linguistica"
+		]
+	},
+	{
+		"question": "La derivazione è il processo morfologico che:",
+		"answers": [
+			"prevede la formazione di una parola nuova tramite l'aggiunta di un affisso a un morfema lessicale",
+			"aggiunge alla parola di base informazioni relative alle categorie flessive",
+			"produce parole nuove a partire da due parole autonome preesistenti",
+			"prevede la formazione di una parola nuova tramite l'aggiunta di un suffisso a un morfema lessicale"
+		]
+	},
+	{
+		"question": "Le parole complesse si suddividono in:",
+		"answers": [
+			"derivate e composte",
+			"derivazionali e flessive",
+			"lessicali e grammaticali",
+			"temi e radici"
+		]
+	},
+	{
+		"question": "Nella parola «canino», i morfemi «can-» e «-in-» hanno:",
+		"answers": [
+			"entrambi significato grammaticale",
+			"entrambi significato lessicale",
+			"il primo significato lessicale e il secondo significato grammaticale",
+			"il primo significato grammaticale e il secondo significato lessicale"
+		]
+	},
+	{
+		"question": "Il suffisso «-oso»:",
+		"answers": [
+			"si aggiunge a Nomi e forma Aggettivi",
+			"si aggiunge ad Aggettivi e forma Nomi",
+			"si aggiunge a Verbi e forma Aggettivi",
+			"si aggiunge a Nomi e forma Verbi"
+		]
+	},
+	{
+		"question": "Si chiama «conversione» la formazione di parole derivate, ottenuta:",
+		"answers": [
+			"senza aggiunta di suffisso derivazionale",
+			"mediante composizione",
+			"mediante l'aggiunta sia di prefissi che di suffissi",
+			"mediante l'aggiunta di prefissi flessivi"
+		]
+	},
+	{
+		"question": "«Camposanto» e «senzatetto» sono rispettivamente:",
+		"answers": [
+			"il primo, un composto con la testa a sinistra, il secondo un composto con la testa a destra",
+			"due composti, entrambi con la testa a destra",
+			"due composti, entrambi con la testa a sinistra",
+			"il primo, un composto con la testa a destra, il secondo un composto con la testa a sinistra"
+		]
+	},
+	{
+		"question": "In genere, nei plurali dei composti endocentrici (banconota, capostazione, ecc.)",
+		"answers": [
+			"non c'è flessione",
+			"la testa si flette al plurale, solo se si trova in seconda posizione",
+			"la testa si flette al plurale, sia che si trovi in prima posizione sia che si trovi in seconda posizione",
+			"la testa si flette al plurale, solo se si trova in prima posizione"
+		]
+	},
+	{
+		"question": "In quale di queste parole giustapposte il rapporto tra le due unità è di subordinazione?",
+		"answers": [
+			"parcheggio clienti",
+			"verde chiaro",
+			"studente lavoratore",
+			"diritto dovere"
+		]
+	},
+	{
+		"question": "La parola «prosciugamenti» è formata:",
+		"answers": [
+			"da due morfemi: prosciuga-menti",
+			"da quattro morfemi: prosciug-a-ment-i",
+			"da tre morfemi: prosciuga-ment-i",
+			"da cinque morfemi: pro-sciug-a-ment-i"
+		]
+	},
+	{
+		"question": "«Addolcire» è:",
+		"answers": [
+			"una parola derivata per parasintesi",
+			"una parola derivata per prefissazione",
+			"una parola derivata per suffissazione",
+			"una parola derivata per conversione"
+		]
+	},
+	{
+		"question": "I test per decidere se una sequenza di parole costituisce un sintagma sono:",
+		"answers": [
+			"quattro: spostamento, sostituibilità, enunciabilità in isolamento, compattezza semantica",
+			"quattro: pronominalizzazione, sostituibilità, enunciabilità in isolamento, coordinabilità",
+			"quattro: spostamento, sostituibilità, enunciabilità in isolamento, coordinabilità",
+			"tre: spostamento, enunciabilità in isolamento, coordinabilità"
+		]
+	},
+	{
+		"question": "Nella frase «Il meccanico darà le chiavi a Paolo»:",
+		"answers": [
+			"il V è modificato da uno Specificatore (Oggetto diretto) e ha due Complementi: Soggetto e Oggetto indiretto",
+			"il V ha tre Complementi: Soggetto, Oggetto diretto e Oggetto indiretto",
+			"il V è modificato da tre Specificatori: Soggetto, Oggetto diretto e Oggetto indiretto",
+			"il V è modificato da uno Specificatore (Soggetto) e ha due Complementi: Oggetto diretto e Oggetto indiretto"
+		]
+	},
+	{
+		"question": "Le frasi predicative:",
+		"answers": [
+			"sono strutturate in rema e tema",
+			"consistono nel solo tema",
+			"consistono nel solo rema",
+			"sono strutturate in tema e in rema"
+		]
+	},
+	{
+		"question": "Il tema della presentazione:",
+		"answers": [
+			"è sempre costituito dal Soggetto",
+			"è spesso costituito dal Soggetto, ma può essere costituito anche da Oggetto diretto",
+			"è spesso costituito dal Soggetto, ma può essere costituito anche da Oggetto indiretto",
+			"è spesso costituito dal Soggetto, ma può essere costituito anche da Oggetto indiretto e diretto"
+		]
+	},
+	{
+		"question": "Quale delle seguenti proprietà sintattiche non è caratteristica del Soggetto?",
+		"answers": [
+			"se è un pronome, ha il caso Nominativo",
+			"ha sempre il ruolo di AGENTE",
+			"si accorda col Verbo",
+			"rimane non espresso con le forme non finite del Verbo"
+		]
+	},
+	{
+		"question": "Quale delle seguenti proprietà sintattiche e semantiche non è caratteristica dell'Oggetto indiretto?",
+		"answers": [
+			"può comparire nella frase come elemento extranucleare",
+			"può essere pronominalizzato con un clitico dativo",
+			"è un SP introdotto dalla preposizione «a»",
+			"ha in genere il ruolo tematico di OGGETTO"
+		]
+	},
+	{
+		"question": "Nelle frasi «Marco ha subito un sopruso» e «Molte cose preoccupano Anna», i sintagmi con funzione di Oggetto diretto sono:",
+		"answers": [
+			"un sopruso, Anna",
+			"Marco, Molte cose",
+			"Marco, Anna",
+			"un sopruso, Molte cose"
+		]
+	},
+	{
+		"question": "Nella frase «L'ha ribadito il professore stesso», il tema:",
+		"answers": [
+			"è assente, perché si tratta di una frase eventivo-presentativa",
+			"è «L(o)»",
+			"è tutta la frase «L'ha ribadito il professore stesso»",
+			"è «L'ha ribadito»"
+		]
+	},
+	{
+		"question": "Si osservino le seguenti frasi e si indichi quale non contiene un verbo inaccusativo:",
+		"answers": [
+			"Andrea guadagna molti soldi (→ Andrea ne guadagna molti)",
+			"È stata venduta una cassa di bottiglie (→ Ne è stata venduta una cassa)",
+			"Sono arrivati molti turisti (→ Ne sono arrivati molti)",
+			"Si sono pentiti tre terroristi (→ Se ne sono pentiti tre)"
+		]
+	},
+	{
+		"question": "Gli ausiliari del passivo sono:",
+		"answers": [
+			"essere, avere, andare",
+			"essere, andare, venire",
+			"essere, avere, venire",
+			"essere, andare, venire, parere"
+		]
+	},
+	{
+		"question": "Nella frase «Paolo è intelligente» che tipo di aggettivo si trova?",
+		"answers": [
+			"nessun tipo di aggettivo",
+			"un aggettivo bivalente",
+			"un aggettivo monovalente",
+			"un aggettivo trivalente"
+		]
+	},
+	{
+		"question": "In quali delle seguenti frasi si trova un «ci» locativo (o esistenziale-locativo)?",
+		"answers": [
+			"Ci vogliono nervi saldi",
+			"C'è Giovanni al telefono",
+			"Fuori dal cancello ci sono i tuoi amici",
+			"Mi dispiace, la mamma non c'è"
+		]
+	},
+	{
+		"question": "In quali di queste frasi si trova un «si» passivo?",
+		"answers": [
+			"I dettagli? Quelli li si controlla dopo",
+			"Si è andati a vedere un film",
+			"Ci si vede dopo",
+			"In Trentino si producono molte mele"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi è una frase copulativa specificativa?",
+		"answers": [
+			"L'amministratore è il signor Ferrari",
+			"Il papà è giù in garage",
+			"Il signore coi baffi è lo zio di Mario",
+			"Giovanni è il direttore della filiale"
+		]
+	},
+	{
+		"question": "Quale delle seguenti forme non è rizotonica?",
+		"answers": [
+			"credi",
+			"credono",
+			"credete",
+			"credo"
+		]
+	},
+	{
+		"question": "Quale dei seguenti verbi presenta un participio passato irregolare?",
+		"answers": [
+			"chiudere",
+			"finire",
+			"credere",
+			"temere"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi contiene un verbo all'aspetto perfettivo aoristico?",
+		"answers": [
+			"Giovanni si tuffò in piscina",
+			"Nadia è andata a trovare sua madre due volte da lunedì",
+			"Maria si è allenata duramente dall'inizio dell'anno",
+			"Giovanni si è tuffato in piscina da alcuni minuti"
+		]
+	},
+	{
+		"question": "In quale di queste frasi il futuro ha valore epistemico?",
+		"answers": [
+			"Ne parleremo al tuo ritorno",
+			"Stasera tornerò tardi",
+			"Non è ancora arrivato. Sarà ancora in viaggio",
+			"Giovanni parlerà domani"
+		]
+	},
+	{
+		"question": "Quale delle seguenti coppie di verbi presenta allomorfia tematica?",
+		"answers": [
+			"temei : temetti",
+			"visto : veduto",
+			"morirà : morrà",
+			"suole : soliamo"
+		]
+	},
+	{
+		"question": "Quale dei verbi in corsivo delle seguenti frasi esprime un aspetto imperfettivo progressivo?",
+		"answers": [
+			"Gli antichi sovrani si circondavano di poeti e di artisti",
+			"Mentre si radeva, Paolo udì un rumore provenire dalla strada",
+			"Durante il concerto, il pubblico rumoreggiava",
+			"Quando lavorava in Belgio, Marco rientrava in Italia solo a Natale"
+		]
+	},
+	{
+		"question": "Quale dei seguenti nomi è un nome massa?",
+		"answers": [
+			"farina",
+			"stormo",
+			"flotta",
+			"gruppo"
+		]
+	},
+	{
+		"question": "Quale dei seguenti plurali indica una pluralità di elementi considerati separatamente?",
+		"answers": [
+			"fondamenti",
+			"dita",
+			"ginocchia",
+			"ossi"
+		]
+	},
+	{
+		"question": "In quali categorie si possono suddividere i determinanti?",
+		"answers": [
+			"articoli, dimostrativi, quantificatori, interrogativi ed esclamativi",
+			"dimostrativi, quantificatori, interrogativi ed esclamativi",
+			"articoli, dimostrativi, interrogativi ed esclamativi",
+			"articoli, dimostrativi, quantificatori"
+		]
+	},
+	{
+		"question": "In quale delle seguenti frasi l'articolo definito viene usato con riferimento anaforico?",
+		"answers": [
+			"Mi fanno male i piedi",
+			"Il sole sorge alle 6.30",
+			"Ho visto una bici bellissima. La bici è rossa e molto leggera",
+			"Le gazze fanno dei nidi molto grandi"
+		]
+	},
+	{
+		"question": "In italiano, quale di questi aggettivi può esprimere il comparativo sia in modo analitico che sintetico?",
+		"answers": [
+			"celebre",
+			"facile",
+			"misero",
+			"piccolo"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi contiene un «avverbio verbale»?",
+		"answers": [
+			"Domani passo a trovarti",
+			"Paolo ha voluto fare di testa sua, perciò ho deciso di farmi da parte",
+			"Giovanni mangia lentamente",
+			"Probabilmente, Pietro a quest'ora sarà già arrivato"
+		]
+	},
+	{
+		"question": "La preposizione monosillabiche sono:",
+		"answers": [
+			"non sono monosillabi",
+			"tutti i monosillabi",
+			"monosillabi con accento",
+			"monosillabi atoni"
+		]
+	},
+	{
+		"question": "Quale delle seguenti affermazioni è falsa?",
+		"answers": [
+			"Le preposizioni polisillabiche constano di due o più sillabe e sono portatrici di accento",
+			"Il complemento della preposizione è costituito in genere da un Sintagma Nominale",
+			"Le preposizioni monosillabiche sono costituite da una sola sillaba e sono prive di accento",
+			"Le preposizioni polisillabiche possono unirsi all'articolo definito, formando le preposizioni articolate"
+		]
+	},
+	{
+		"question": "Quale dei seguenti sintagmi contiene un aggettivo attributivo con valore restrittivo (o denotativo)?",
+		"answers": [
+			"La decisione rapida",
+			"La decisione governativa",
+			"L'amore paterno",
+			"Il grande amore"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi contiene un articolo definito con valore di indefinito specifico?",
+		"answers": [
+			"Cerco un berretto di lana blu. Era qui sopra e ora non c'è",
+			"Non ho mai incontrato una persona che non ti stimi",
+			"Cerco un qualsiasi berretto di lana blu",
+			"Cerco un berretto di lana blu. Domani farò un giro in centro"
+		]
+	},
+	{
+		"question": "In quale di queste frasi il referente del pronome viene individuato mediante un rinvio cataforico?",
+		"answers": [
+			"Guarda! È lui il ragazzo di cui ti parlavo!",
+			"Mi hanno colpito le sue parole",
+			"È arrivata Maria, ma non sono riuscito a parlarle",
+			"Non lo sopporto proprio, tuo fratello!"
+		]
+	},
+	{
+		"question": "Quale delle seguenti affermazioni è falsa?",
+		"answers": [
+			"I clitici accusativi corrispondono a sintagmi nominali con la funzione di Oggetto diretto",
+			"Il clitico accusativo presenta tre forme: il maschile «lo», il femminile «la», il plurale «loro»",
+			"I clitici accusativi possono corrispondere a proposizioni oggettive",
+			"Il clitico «lo» può sostituire un complemento predicativo"
+		]
+	},
+	{
+		"question": "Nella frase «Mi ci ha accompagnato» abbiamo la sequenza di due clitici:",
+		"answers": [
+			"il primo dativo, il secondo accusativo",
+			"il primo accusativo, il secondo locativo",
+			"il primo dativo, il secondo locativo",
+			"il primo accusativo, il secondo dativo"
+		]
+	},
+	{
+		"question": "Nella frase «Filippo decise di interrompere il lavoro. *Lui era troppo stanco per continuare», l'uso del pronome «lui» è sbagliato",
+		"answers": [
+			";",
+			"perché «lui» non può essere usato in isolamento",
+			"perché «lui» non può avere funzione di Nominativo",
+			"perché il referente «lui» è stato introdotto nella frase precedente e non è inatteso",
+			"perché «lui» non può essere usato in posizione pre-verbale"
+		]
+	},
+	{
+		"question": "Quale di queste frase contiene un Complemento predicativo dell'Oggetto?",
+		"answers": [
+			"Piero sembra una brava persona",
+			"Piero sembra bravo",
+			"Silvia crede Tobia innocente",
+			"Piero è ingegnere"
+		]
+	},
+	{
+		"question": "In quale delle seguenti frasi complesse, il controllore della proposizione infinitiva è il Soggetto della frase matrice?",
+		"answers": [
+			"Paolo ha invitato Marta a uscire con lui",
+			"Mi occorre del tempo per terminare il lavoro",
+			"A Paolo piace molto uscire con Marta",
+			"Paolo pensa di uscire con Marta"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi complesse contiene una proposizione extranucleare consecutiva?",
+		"answers": [
+			"Qualunque cosa tu dica, non mi interessa",
+			"Paolo è stato richiamato perché è arrivato tardi",
+			"Ha piovuto talmente tanto che il fiume è straripato",
+			"Andando al lavoro, mi sono fermato a comprare il pane"
+		]
+	},
+	{
+		"question": "Quale delle seguenti affermazioni è falsa?",
+		"answers": [
+			"I costituenti dislocati a sinistra introducono il tema della comunicazione",
+			"Nel caso della dislocazione dell'Oggetto indiretto, la ripresa del clitico è obbligatoria",
+			"Nella costruzione del tema sospeso, la ripresa del clitico è obbligatoria",
+			"Nella dislocazione a destra, gli elementi dislocati possono essere considerati dei «ripensamenti»"
+		]
+	},
+	{
+		"question": "Quale delle seguenti frasi presenta la costruzione della dislocazione a sinistra?",
+		"answers": [
+			"È a Marco che ho dato il libro",
+			"La spesa, di solito la fa mio marito",
+			"Ne ho comprata molta, di pasta",
+			"Marco, gli ho dato il libro"
+		]
+	},
+	{
+		"question": "Quale tra le seguenti espressioni è «contestualmente» deittica?",
+		"answers": [
+			"io",
+			"allora",
+			"domani",
+			"subito"
+		]
+	},
+	{
+		"question": "Quale dei seguenti tratti non è caratteristico dell'italiano dell'uso medio?",
+		"answers": [
+			"Scomparsa dei deittici «codesto, costì, costà»",
+			"Declino delle forme aferetiche «‘sto, ‘sta»",
+			"Declino della regola del «dittongo mobile»",
+			"Uso di «questo, quello» con referenza generica"
+		]
+	},
+	{
+		"question": "Nell'italiano standard, l'uso di frasi marcate:",
+		"answers": [
+			"è presente solo nello scritto e non nel parlato",
+			"è del tutto assente",
+			"è solo dell'uso meridionale",
+			"è abbondante"
+		]
+	},
+	{
+		"question": "Quale dei seguenti calchi è un calco strutturale?",
+		"answers": [
+			"banconota",
+			"realizzare",
+			"pacchetto",
+			"bambola"
+		]
+	},
+	{
+		"question": "A quale categoria appertiene il calco «non c'è di che»?",
+		"answers": [
+			"calchi di composizione",
+			"calchi di derivazione",
+			"calchi fraseologici",
+			"calchi sintagmatici"
+		]
+	},
+	{
+		"question": "Graziadio Isaia Ascoli riteneva:",
+		"answers": [
+			"che le lingue romanze derivassero dalle lingue di sostrato",
+			"che il fonema /y/ derivasse dal sostrato etrusco",
+			"che i dialetti italiani settentrionali derivassero da varietà celtiche",
+			"che il fonema /y/ derivasse dal sostrato celtico"
+		]
+	},
+	{
+		"question": "Il latino volgare era:",
+		"answers": [
+			"la lingua scurrile usata dalle classi popolari nell'antica Roma",
+			"il registro più basso del latino, usato da tutte le classi sociali nella comunicazione quotidiana",
+			"il dialetto usato nell'interazione quotidiana dalle classi inferiori nell'antica Roma",
+			"il registro più basso del latino, usato solo dalle classi popolari"
+		]
+	},
+	{
+		"question": "Nella storia dell'italiano si distinguono abitualmente:",
+		"answers": [
+			"due fasi: italiano antico e italiano moderno",
+			"due fasi: italiano antico e italiano postunitario",
+			"tre fasi: fiorentino antico, italiano moderno, italiano contemporaneo",
+			"tre fasi: fiorentino antico, fiorentino medio, italiano moderno"
+		]
+	},
+	{
+		"question": "Di quante vocali toniche si compone il sistema fiorentino?",
+		"answers": [
+			"otto",
+			"tre",
+			"sette",
+			"cinque"
+		]
+	},
+	{
+		"question": "L'anafonesi è un fenomeno fonetico:",
+		"answers": [
+			"che interessa le vocali toniche latine / ĭ ĕ ŭ ŏ/ solo in alcuni contesti",
+			"che interessa le vocali toniche latine / ĭ ĕ ŭ ŏ/ in ogni contesto",
+			"che interessa le vocali toniche latine / ĭ ē ŭ ō/ solo in alcuni contesti",
+			"che interessa le vocali toniche latine / ĭ ē ŭ ō/ in ogni contesto"
+		]
+	},
+	{
+		"question": "In fiorentino, il vocalismo atono da quante vocali è composto?",
+		"answers": [
+			"sette",
+			"otto",
+			"tre",
+			"cinque"
+		]
+	},
+	{
+		"question": "In siciliano, il vocalismo atono da quante vocali è composto?",
+		"answers": [
+			"sette",
+			"cinque",
+			"tre",
+			"otto"
+		]
+	},
+	{
+		"question": "Quale delle seguenti affermazioni è falsa?",
+		"answers": [
+			"In latino classico e in fiorentino la lunghezza consonantica ha valore distintivo",
+			"In latino classico la lunghezza vocalica ha valore distintivo",
+			"In latino classico e in fiorentino la lunghezza vocalica ha valore distintivo",
+			"In fiorentino la lunghezza vocalica ha valore allofonico"
+		]
+	},
+	{
+		"question": "Il raddoppiamento fonosintattico «regolare» è innescato:",
+		"answers": [
+			"da tutti i monosillabi atoni",
+			"da alcune parole tronche",
+			"da tutte le parole tronche",
+			"da alcuni monosillabi atoni"
+		]
+	},
+	{
+		"question": "Il fenomeno della gorgia toscana prevede:",
+		"answers": [
+			"la spirantizzazione delle occlusive in contesto non-intervocalico",
+			"la spirantizzazione delle fricative in contesto intervocalico",
+			"la spirantizzazione delle occlusive in contesto intervocalico",
+			"la spirantizzazione delle fricative in contesto non-intervocalico"
+		]
+	},
+	{
+		"question": "Nel passaggio dal latino «FACĬO» all'italiano «faccio» dobbiamo ipotizzare:",
+		"answers": [
+			"due passaggi fonetici",
+			"un solo passaggio fonetico",
+			"tre passaggi fonetici",
+			"quattro passaggi fonetici"
+		]
+	},
+	{
+		"question": "L'evoluzione «ARMARIUM > armadio», quale tipo di fenomeno consonantico implica?",
+		"answers": [
+			"dissimilazione",
+			"epentesi",
+			"metatesi",
+			"assimilazione"
+		]
+	},
+	{
+		"question": "L'italiano «specchio» è:",
+		"answers": [
+			"la regolare evoluzione del latino «SPĔCŬLU(M)»",
+			"un cultismo",
+			"un'eccezione alla legge fonetica del dittongamento",
+			"un caso di raddoppiamento fonosintattico"
+		]
+	},
+	{
+		"question": "Quali di queste forme si deve al livellamento analogico?",
+		"answers": [
+			"cuoce",
+			"muore",
+			"moriamo",
+			"cuociamo"
+		]
+	},
+	{
+		"question": "La forma italiana «usignolo»:",
+		"answers": [
+			"è dovuta al processo analogico del quarto proporzionale",
+			"è dovuta a un processo analogico di rianalisi",
+			"è la regolare continuazione della forma latina «*LUSCINĬŎLU(M)»",
+			"è dovuta a un processo analogico di livellamento"
+		]
+	},
+	{
+		"question": "Secondo l'ipotesi «morfologica», il morfema plurale «-e» del femminile (per es. «capre»):",
+		"answers": [
+			"è la regolare continuazione dell'accusativo plurale della I declinazione latina",
+			"è la regolare continuazione del nominativo plurale della I declinazione latina",
+			"è di origine analogica",
+			"non è spiegabile"
+		]
+	},
+	{
+		"question": "I pronomi liberi «lui» e «loro»:",
+		"answers": [
+			"sia in fiorentino antico, sia in italiano moderno spesso hanno funzione di soggetto",
+			"in fiorentino antico raramente avevano funzione di soggetto",
+			"in italiano moderno raramente hanno funzione di soggetto",
+			"in italiano moderno hanno soltanto funzione di soggetto"
+		]
+	},
+	{
+		"question": "Nella formazione dei composti, l'italiano:",
+		"answers": [
+			"presenta l'ordine MODIFICATORE-TESTA, come il latino",
+			"presenta l'ordine TESTA-MODIFICATORE, come il latino",
+			"presenta l'ordine MODIFICATORE-TESTA, diversamente dal latino",
+			"presenta l'ordine TESTA-MODIFICATORE, diversamente dal latino"
+		]
+	},
+	{
+		"question": "Il passaggio di un verbo da una coniugazione all'altra è detto:",
+		"answers": [
+			"cataplasmo",
+			"metatesi",
+			"metaplasmo",
+			"metalessi"
+		]
+	},
+	{
+		"question": "Il congiuntivo imperfetto italiano:",
+		"answers": [
+			"deriva dal congiuntivo imperfetto latino",
+			"deriva dall'indicativo piuccheperfetto latino",
+			"deriva dal congiuntivo piuccheperfetto latino",
+			"deriva dal congiuntivo presente latino"
+		]
+	},
+	{
+		"question": "Il futuro e il condizionale italiano sono diventati forme sintetiche a causa:",
+		"answers": [
+			"di composizione e derivazione",
+			"di un processo di rianalisi e grammaticalizzazione",
+			"di livellamento analogico",
+			"di coalescenza"
+		]
+	},
+	{
+		"question": "In italiano si ha la proclisi:",
+		"answers": [
+			"con tutti i modi non-finiti del verbo",
+			"con tutti i modi finiti del verbo tranne che coll'imperativo",
+			"con tutti i modi finiti del verbo",
+			"con tutti i modi non-finiti del verbo tranne che coll'infinito, che ammette anche l'enclisi"
+		]
+	},
+	{
+		"question": "Il cambiamento semantico si attua attraverso tre passaggi:",
+		"answers": [
+			"associazione, neoformazione, lessicalizzazione",
+			"associazione, innovazione, lessicalizzazione",
+			"associazione, innovazione, neoformazione",
+			"associazione, innovazione, polisemia"
+		]
+	},
+	{
+		"question": "Quale delle seguenti affermazioni è falsa?",
+		"answers": [
+			"l'articolo definito «lo» deriva dalla seconda sillaba del dimostrativo latino «ĬLLUM»",
+			"la forma più arcaica dell'articolo in fiorentino è «lo»",
+			"l'articolo definito «il» deriva dalla prima sillaba del dimostrativo latino «ĬLLUM»",
+			"la /i/ di «il» deriva da un fenomeno di prostesi"
+		]
+	},
+	{
+		"question": "La forma «isperate» nel verso dantesco «non isperate mai veder lo cielo» è un caso di:",
+		"answers": [
+			"epentesi di /i/",
+			"epitesi di /i/",
+			"aferesi di /i/",
+			"prostesi di /i/"
+		]
+	},
+	{
+		"question": "L'Indovinello veronese:",
+		"answers": [
+			"è il primo documento del volgare veronese",
+			"è un testo che presenta una patina volgare solo a un livello superficiale",
+			"è il primo documento del volgare italiano",
+			"è un testo latino risalente all'VIII secolo"
+		]
+	},
+	{
+		"question": "Il Graffito della Catacomba di Commodilla:",
+		"answers": [
+			"si trova a Viterbo e risale all'VIII secolo d.C.",
+			"si trova a Viterbo e risale al IX secolo d.C.",
+			"si trova a Roma e risale all'VIII secolo d.C.",
+			"sii trova a Roma e risale al IX secolo d.C."
+		]
+	},
+	{
+		"question": "I poeti della scuola siciliana scrissero:",
+		"answers": [
+			"in un volgare genericamente meridionale",
+			"in un siciliano illustre, privo di tratti dialettali locali",
+			"in una lingua recante una patina grafico-linguistica già toscanizzata",
+			"nel siciliano di Palermo, la sede della corte di Federico II"
+		]
+	},
+	{
+		"question": "Il vero protagonista della svolta stilnovistica fu:",
+		"answers": [
+			"Guido Cavalcanti",
+			"Dante Alighieri",
+			"Guido Guinizzelli",
+			"Bonagiunta Orbicciani da Lucca"
+		]
+	},
+	{
+		"question": "L'obiettivo che Dante persegue nel «De vulgari eloquentia» è quello:",
+		"answers": [
+			"di tratteggiare la storia della poesia volgare, dai provenzali ai suoi giorni",
+			"di creare una lingua adatta al discorso filosofico",
+			"di creare un'«arte poetica» del volgare",
+			"di rivendicare la dignità del volgare nell'uso colto"
+		]
+	},
+	{
+		"question": "2 Nel verso petrarchesco «vo mesurando a passi tardi e lenti», nel sintagma «tardi e lenti» che procedimento retorico troviamo?",
+		"answers": [
+			"dittologia sinonimica",
+			"polisindeto",
+			"consonanza",
+			"anafora"
+		]
+	},
+	{
+		"question": "La forma «aura» del primo verso del sonetto petrarchesco «Erano i capei d'oro a l'aura sparsi» è un:",
+		"answers": [
+			"provenzalismo",
+			"sicilianismo",
+			"latinismo",
+			"francesismo"
+		]
+	},
+	{
+		"question": "La lingua del «Decameron» si presenta:",
+		"answers": [
+			"maggiormente polimorfica di quella della coeva poesia",
+			"meno polimorfica di quella della coeva poesia, ma solo nelle ballate che concludono le giornate",
+			"meno polimorfica di quella della coeva poesia",
+			"altrettanto polimorfica di quella della coeva poesia"
+		]
+	},
+	{
+		"question": "La grammatica di Leon Battista Alberti è:",
+		"answers": [
+			"una grammatica del fiorentino contemporaneo",
+			"una grammatica del fiorentino di Dante, Petrarca e Boccaccio",
+			"una grammatica della lingua degli scrittori più autorevoli della tradizione",
+			"una grammatica del fiorentino Trecentesco"
+		]
+	},
+	{
+		"question": "Tra le opere di Poliziano ricordiamo:",
+		"answers": [
+			"Le «Stanze per la giostra» e la «Favola di Orfeo»",
+			"Le «Stanze per la giostra» e il «Commento alla Commedia»",
+			"La «Favola di Orfeo» e i «Canti carnascialeschi»",
+			"Le «Stanze per la giostra» e i «Canti carnascialeschi»"
+		]
+	},
+	{
+		"question": "Per evitare le forma dialettali, le «lingue di koiné» elaborate nelle cancellerie del Quattrocento fanno in genere ricorso:",
+		"answers": [
+			"ad arcaismi",
+			"a latinismi",
+			"a toscanismi",
+			"a neologismi"
+		]
+	},
+	{
+		"question": "L'imporsi del modello petrarchesco alla fine del Quattrocento è dimostrato:",
+		"answers": [
+			"dall'«Arcadia» e dalle «Rime» di Sannazaro, e dagli «Amorum libri» di Boiardo",
+			"dall'«Arcadia» e dalle «Rime» di Sannazaro, e dalle «Stanze per la giostra» di Poliziano",
+			"dagli «Amorum libri» e dall'«Orlando innamorato» di Boiardo",
+			"dall'«Arcadia» e dalle «Rime» di Sannazaro, e dall'«Orlando innamorato» di Boiardo"
+		]
+	},
+	{
+		"question": "Quali sono le date delle tre edizioni dell'«Orlando furioso» di Ludovico Ariosto?",
+		"answers": [
+			"1516, 1521, 1532",
+			"1516, 1521, 1525",
+			"1516, 1525, 1532",
+			"1521, 1525, 1532"
+		]
+	},
+	{
+		"question": "La teoria linguistica di Bembo:",
+		"answers": [
+			"teneva conto anche – seppur cautamente – del fiorentino vivo",
+			"era ispirata ai principi del classicismo cinquecentesco",
+			"si fondava sull'idea dell'indipendenza della lingua dalla letteratura",
+			"venne espressa organicamente nelle «Prose della volgar lingua», pubblicate nel 1515"
+		]
+	},
+	{
+		"question": "L'uso del dialetto nella commedia del Cinquecento:",
+		"answers": [
+			"prosegue la tradizione dei volgari medievali",
+			"deriva solo dall'esigenza di dar voce alle istanze degli umili e dei diseredati",
+			"prosegue la tradizione delle lingue di koiné",
+			"deriva da un rifiuto del classicismo bembiano"
+		]
+	},
+	{
+		"question": "La lingua della «Mandragola» di Machiavelli:",
+		"answers": [
+			"fonde latinismi di origine cancelleresca con parole comuni e quotidiane",
+			"è un limpido esempio di fiorentino vivo",
+			"è un efficace compromesso tra lingua letteraria e lingua viva",
+			"è modellata fondamentalmente sul fiorentino letterario del Trecento"
+		]
+	},
+	{
+		"question": "Lionardo Salviati trasformò la teoria di Bembo:",
+		"answers": [
+			"prendendo in considerazione anche la lingua del Duecento",
+			"prendendo in considerazione anche la lingua di Dante",
+			"ampliando il canone anche ad autori minori del Trecento",
+			"prendendo in considerazione anche il fiorentino vivo"
+		]
+	},
+	{
+		"question": "La prima grammatica dell'italiano, dopo quella di Leon Battista Alberti, si deve a:",
+		"answers": [
+			"Pietro Bembo",
+			"Giovan Francesco Fortunio",
+			"Pierfrancesco Giambullari",
+			"Lionardo Salviati"
+		]
+	},
+	{
+		"question": "L'uso del volgare da parte di Galileo dipende, tra l'altro, dalla volontà:",
+		"answers": [
+			"di staccarsi polemicamente dalla tradizione degli accademici di esprimersi in latino",
+			"di competere con gli altri scienziati europei che avevano abbandonato il latino",
+			"di dare valore letterario alle sue opere scientifiche",
+			"di rivolgersi ai membri dell'aristocrazia fiorentina"
+		]
+	},
+	{
+		"question": "Il Concilio di Trento:",
+		"answers": [
+			"vietò il possesso di Bibbie volgari",
+			"propugnò il principio del libero esame delle scritture",
+			"contribuì all'unificazione linguistica d'Italia",
+			"favorì la traduzione in volgare della Bibbia"
+		]
+	},
+	{
+		"question": "I più importanti oppositori della Crusca nel Seicento furono:",
+		"answers": [
+			"Alessandro Tassoni, Daniello Bartoli, Carlo Maria Maggi",
+			"Paolo Beni, Alessandro Tassoni, Daniello Bartoli",
+			"Paolo Beni, Daniello Bartoli, Carlo Maria Maggi",
+			"Paolo Beni, Alessandro Tassoni, Carlo Maria Maggi"
+		]
+	},
+	{
+		"question": "Il melodramma:",
+		"answers": [
+			"vede la luce con il «Pastor fido» di Battista Guarini",
+			"viene teorizzato all'interno della fiorentina Camerata dei Bardi",
+			"vede la luce con l'«Aminta» di Tasso",
+			"vede la luce con l'«Orfeo» di Claudio Monteverdi"
+		]
+	},
+	{
+		"question": "Quale di queste idee non rientra tra quelle avanzate da Melchiorre Cesarotti nel «Saggio sulla filosofia delle lingue»?",
+		"answers": [
+			"l'idea di istituire un «Consiglio nazionale» della lingua al posto della Crusca",
+			"l'idea di redigere un Nuovo vocabolario italiano privo di arcaismi",
+			"l'idea di redigere un Nuovo vocabolario italiano privo di termini regionali",
+			"l'idea di redigere un Nuovo vocabolario italiano ricco di termini delle arti e delle scienze"
+		]
+	},
+	{
+		"question": "La sintassi della «Scienza nuova» di Giambattista Vico è:",
+		"answers": [
+			"abbondantemente ipotattica, perché ispirata al modello boccacciano",
+			"lineare e limpida, come quella dei suoi contemporanei",
+			"lineare e limpida, diversamente da quella dei suoi contemporanei",
+			"abbondantemente ipotattica, sebbene non ispirata al modello boccacciano"
+		]
+	},
+	{
+		"question": "Sul piano della lingua, l'Accademia dell'Arcadia propone:",
+		"answers": [
+			"il ritorno al modello petrarchesco",
+			"il ritorno al classicismo barocco",
+			"il ritorno al modello petrarchesco e boccacciano",
+			"il ritorno al modello della poesia barocca"
+		]
+	},
+	{
+		"question": "La lingua delle commedie di Goldoni è caratterizzata:",
+		"answers": [
+			"dalla presenza di latinismi, aulicismi e arcaismi",
+			"dalla presenza di venetismi, settentrionalismi e francesismi",
+			"da una sintassi abbondantemente ipotattica",
+			"da una sintassi semplificata, ispirata al modello arcadico"
+		]
+	},
+	{
+		"question": "Le scelte linguistiche di Vittorio Alfieri sono orientate a:",
+		"answers": [
+			"allontanare la lingua delle sue tragedie da quella dei contemporanei",
+			"recuperare il modello petrarchesco",
+			"recuperare il modello arcadico",
+			"avvicinare la lingua delle sue tragedie all'uso vivo"
+		]
+	},
+	{
+		"question": "Quale di questi procedimenti non appare caratteristico della poesia neoclassica?",
+		"answers": [
+			"uso di perifrasi dotte",
+			"uso di riferimenti mitologici",
+			"uso di latinismi e grecismi",
+			"uso di francesismi"
+		]
+	},
+	{
+		"question": "Ugo Foscolo:",
+		"answers": [
+			"coniuga un linguaggio poetico tipicamente neoclassico con una sensibilità illuministica",
+			"coniuga un linguaggio poetico tipicamente illuministica con una sensibilità neoclassica",
+			"coniuga un linguaggio poetico tipicamente romantico con una sensibilità neoclassica",
+			"coniuga un linguaggio poetico tipicamente neoclassico con una sensibilità romantica"
+		]
+	},
+	{
+		"question": "Il ricorso agli arcaismi da parte di Leopardi dipende dalla sua volontà di:",
+		"answers": [
+			"riportare il linguaggio poetico alla dignità dell'antica lingua letteraria",
+			"imitare la grande poesia della tradizione letteraria italiana del Trecento e del Cinquecento",
+			"allontanare il linguaggio poetico dall'uso quotidiano",
+			"conferire alla lingua poetica la dignità letteraria delle lingue classiche"
+		]
+	},
+	{
+		"question": "La sintassi della «Quiete dopo la tempesta» di Leopardi è caratterizzata:",
+		"answers": [
+			"dalla paratassi e dall'asindeto",
+			"dall'ipotassi e dal polisindeto",
+			"dall'ipotassi e dall'asindeto",
+			"dalla paratassi e dal polisindeto"
+		]
+	},
+	{
+		"question": "Quale di queste idee non rispecchia le idee di Manzoni espresse nella relazione «Dell'unità della lingua e dei mezzi di diffonderla»?",
+		"answers": [
+			"l'unificazione linguistica doveva procedere «sostituendo» a ciascun dialetto la lingua fiorentina",
+			"ai parlanti e agli scriventi non toscani doveva essere proposto come modello Il fiorentino «dell'uso colto»",
+			"la diffusione del fiorentino vivo doveva avvenire tramite l'invio di insegnanti elementari toscan",
+			"l'unificazione linguistica non poteva essere raggiunta proponendo agli italiani una lingua già esistente e omogenea"
+		]
+	},
+	{
+		"question": "La lingua del «Fermo e Lucia» è caratterizzata:",
+		"answers": [
+			"da un fondo di lombardo e da vari elementi toscani e francesi",
+			"da un fondo di toscano letterario e da vari elementi lombardi e francesi",
+			"da un fondo di italiano parlato e da vari elementi lombardi e francesi",
+			"da un fondo di fiorentino contemporaneo e da vari elementi lombardi e francesi"
+		]
+	},
+	{
+		"question": "La revisione che porta dalla Ventisettana alla Quarantana comporta sistematicamente la sostituzione:",
+		"answers": [
+			"di forme genericamente toscane con espressioni tipicamente fiorentine",
+			"di forme arcaiche e letterarie con cultismi",
+			"di forme arcaiche e letterarie con espressioni dell'uso vivo",
+			"di forme del fiorentino popolare con espressioni del fiorentino dell'uso colto"
+		]
+	},
+	{
+		"question": "Il «Dizionario della lingua italiana» di Tommaseo-Bellini:",
+		"answers": [
+			"ha come modello sia il toscano parlato che la lingua letteraria, come il Giorgini-Broglio",
+			"ha come modello il fiorentino vivo, come il Giorgini-Broglio",
+			"ha come modello il fiorentino vivo, diversamente dal Giorgini-Broglio,",
+			"ha come modello sia il toscano parlato che la lingua letteraria, diversamente dal Giorgini-Broglio"
+		]
+	},
+	{
+		"question": "Secondo Graziadio Isaia Ascoli, l'unificazione linguistica:",
+		"answers": [
+			"doveva essere raggiunta attraverso il sistema scolastico",
+			"dipendeva da fattori extralinguistici",
+			"doveva essere raggiunta attraverso la diffusione della lingua letteraria di base fiorentina",
+			"doveva essere raggiunta attraverso un intervento pilotato dalle istituzioni"
+		]
+	},
+	{
+		"question": "I testi veristi di Giovanni Verga si incardinano su due procedimenti fondamentali:",
+		"answers": [
+			"l'impegno politico e la scientificità della letteratura",
+			"la scientificità della letteratura e la regressione del narratore",
+			"l'impersonalità e la regressione del narratore",
+			"l'impegno politico e l'impersonalità"
+		]
+	},
+	{
+		"question": "La lingua del romanzo «I Malavoglia»:",
+		"answers": [
+			"è un italiano di tipo fiorentino, caratterizzato da vari tratti tipici del parlato",
+			"è un siciliano caratterizzato da vari tratti tipici del parlato",
+			"è un italiano caratterizzato da vari tratti tipici del parlato",
+			"è un italiano ricco di termini dialettali siciliani, e caratterizzato da vari tratti tipici del parlato"
+		]
+	},
+	{
+		"question": "Quale di questi procedimenti è tra quelli impiegati da Verga per produrre l'impressione di una «oralità popolare»?",
+		"answers": [
+			"il ricorso a sicilianismi morfologici e fonetici",
+			"la dislocazione e destra e a sinistra",
+			"il discorso indiretto libero",
+			"il ricorso a sicilianismi lessicali"
+		]
+	},
+	{
+		"question": "Quale procedimento sintattico appare dominante nella lirica pascoliana «L'assiuolo»?",
+		"answers": [
+			"anastrofe",
+			"enclisi pronominale",
+			"asindeto",
+			"iperbato"
+		]
+	},
+	{
+		"question": "Il progetto linguistico di D'Annunzio è quello:",
+		"answers": [
+			"di avvicinare la lingua poetica a quella parlata, recuperando forme dalla lingua quotidiana",
+			"di allontanare la lingua della poesia da quella quotidiana, ritornando al linguaggio lirico di tradizione petrarchesca",
+			"di allontanare la lingua della poesia da quella quotidiana, recuperando forme medievali e classiche direttamente dalle fonti",
+			"di allontanare la lingua della poesia da quella quotidiana, ritornando alla lingua letteraria tradizionale"
+		]
+	},
+	{
+		"question": "La forma «pèrsica» che si incontra nella lirica dannunziana «Nella belletta» è un:",
+		"answers": [
+			"allofono di «pèsca»",
+			"allomorfo di «pèsca»",
+			"allotropo di «pèsca»",
+			"una variante dialettale di «pèsca»"
+		]
+	},
+	{
+		"question": "La lirica dannunziana «Nella belletta» presenta già nel titolo una citazione di un testo di:",
+		"answers": [
+			"Virgilio",
+			"Orazio",
+			"Petrarca",
+			"Dante"
+		]
+	},
+	{
+		"question": "Quale di queste misure di politica linguistica fu intrapresa dal regime fascista?",
+		"answers": [
+			"la difesa delle minoranze linguistiche",
+			"il sostegno dell'attività lessicografica della Crusca",
+			"il rifiuto delle parole straniere",
+			"la promozione e la valorizzazione dei dialetti"
+		]
+	},
+	{
+		"question": "Quale di questi eventi non ebbe effetti significativi sulla diffusione dell'italiano nella prima metà del Novecento?",
+		"answers": [
+			"l'innalzamento dell'obbligo scolastico",
+			"il regime fascista",
+			"la Grande guerra (1915-1918)",
+			"la mobilitazione delle masse popolari"
+		]
+	},
+	{
+		"question": "Don Lorenzo Milani contestava:",
+		"answers": [
+			"gli errori concettuali compiuti dagli insegnanti nella correzione degli elaborati",
+			"il modello linguistico proposto dalla scuola, anacronistico e letterario",
+			"la mancanza di specifiche conoscenze tecniche da parte degli insegnanti",
+			"il ruolo avuto dalla classe dominante nell'annosa questione della lingua"
+		]
+	},
+	{
+		"question": "Quale di queste caratteristiche è tipica dell'«italiano aziendale»?",
+		"answers": [
+			"precisione e univocità dei termini",
+			"uso di lessico prevalentemente denotativo",
+			"uso di lessico tecnico-scientifico",
+			"uso di tecnicismi collaterali"
+		]
+	},
+	{
+		"question": "Quale di queste affermazioni è falsa?",
+		"answers": [
+			"un elemento che distingue la lingua di Montale da quella dei contemporanei è la sua evidente letterarietà",
+			"in Saba, aulicismi e lingua quotidiana convivono armonicamente in un tono medio",
+			"il linguaggio poetico dei futuristi appare caratterizzato dal «cozzo dell'aulico col prosaico»",
+			"Ungaretti persegue l'isolamento della parola al fine di recuperarne la «purezza originaria»"
+		]
+	},
+	{
+		"question": "Quale autore sfruttò al massimo le potenzialità della lingua in senso espressionista?",
+		"answers": [
+			"Carlo Emilio Gadda",
+			"Italo Calvino",
+			"Italo Svevo",
+			"Umberto Saba"
+		]
+	}
+]

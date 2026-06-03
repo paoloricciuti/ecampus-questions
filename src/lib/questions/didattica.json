@@ -1,0 +1,1141 @@
+[
+	{
+		"question": "Testo Domanda",
+		"answers": [
+			"Testo Risposta Errata",
+			"Testo Risposta Corretta",
+			"Testo Risposta Errata",
+			"Testo Risposta Errata"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Nel a.s. 2023-2024 risultano iscritti nella scuola italiana",
+		"answers": [
+			"RISPOSTA 1 Più di 8"
+		]
+	},
+	{
+		"question": "000 ai alunni stranieri",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle precedenti",
+			"RISPOSTA 3 Più di 1 milione di alunni stranieri",
+			"RISPOSTA 2 Più di 9"
+		]
+	},
+	{
+		"question": "DOMANDA 7 BES riguarda",
+		"answers": [
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 3 Gli svantaggiati socio economici",
+			"RISPOSTA 1 Gli svantaggiati linguistici",
+			"RISPOSTA 2 Gli svantaggiati culturali"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Ius sanguinis",
+		"answers": [
+			"RISPOSTA 1 È l'acquisizione della cittadinanza italiana allorquando un proprio figlio nasce in Italia",
+			"RISPOSTA 2 È l'acquisizione della cittadinanza per discendenza o filiazione da cittadini italiani",
+			"RISPOSTA 3 E l'acquisizione della cittadinanza per discendenza da parenti italiani di terzo grado",
+			"RISPOSTA 4 È l'acquisizione della cittadinanza per discendenza da parenti italiani di secondo grado"
+		]
+	},
+	{
+		"question": "DOMANDA 3 LN significa:",
+		"answers": [
+			"RISPOSTA 3 Lingua nuovo arrivato",
+			"RISPOSTA 4 Lingua non nota",
+			"RISPOSTA 1 Lingua nativa",
+			"RISPOSTA 2 Lingua non nativa"
+		]
+	},
+	{
+		"question": "DOMANDA 6 I CPIA sono",
+		"answers": [
+			"RISPOSTA 3 Centri provinciali per l'istruzione poliglotti",
+			"RISPOSTA 2 Centri territoriali per l'istruzione degli anziani",
+			"RISPOSTA 4 Centri provinciali per l'istruzione degli adulti",
+			"RISPOSTA 1 Centri provinciali per l'istruzione degli anziani"
+		]
+	},
+	{
+		"question": "DOMANDA 4 NAI",
+		"answers": [
+			"RISPOSTA 2 Non parlano la lingua italiana o la conoscono poco",
+			"RISPOSTA 3 Non parlano la lingua italiana",
+			"RISPOSTA 4 Nessuna risposta",
+			"RISPOSTA 1 Sono in grado di parlare l'italiano fluente"
+		]
+	},
+	{
+		"question": "DOMANDA 5 MSNA significa",
+		"answers": [
+			"RISPOSTA 4 Minori studenti non accettati",
+			"RISPOSTA 1 Stranieri arrivati in Italia senza Genitori",
+			"RISPOSTA 3 Minori stranieri accompagnati dai natali",
+			"RISPOSTA 2 Minori stranieri non abili"
+		]
+	},
+	{
+		"question": "DOMANDA 9 L'assimilazione è un tipo di integrazione adottata:",
+		"answers": [
+			"RISPOSTA 2 In Gran Bretagna",
+			"RISPOSTA 1 Negli Stati Uniti",
+			"RISPOSTA 4 In Italia",
+			"RISPOSTA 3 In Francia"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il CNI",
+		"answers": [
+			"RISPOSTA 2 È uno strumento per l' integrazione",
+			"RISPOSTA 3 È uno strumento per la formazione",
+			"RISPOSTA 1 E' uno strumento di legislazione",
+			"RISPOSTA 4 Tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Il melting pot",
+		"answers": [
+			"RISPOSTA 3 Accetta che i gruppi etnici godono la loro autonomia",
+			"RISPOSTA 4 Parcellizzare ogni cultura immigrante",
+			"RISPOSTA 1 Da' ad una società omogenea nel punto di vista culturale",
+			"RISPOSTA 2 Tutela chiaramente il proprio nazionalismo"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Lo Ius soli si acquisisce",
+		"answers": [
+			"RISPOSTA 3 Per discendenza",
+			"RISPOSTA 4 Per conseguenza giuridica",
+			"RISPOSTA 1 Per educazione interculturale",
+			"RISPOSTA 2 Per il numero di anni residenti in Italia"
+		]
+	},
+	{
+		"question": "DOMANDA 11 Per l'Istat agli inizi 2023 gli stranieri sono circa",
+		"answers": [
+			"RISPOSTA 1 Il 5.7 % di cittadini italiani",
+			"RISPOSTA 3 L'11,5% di cittadini italiani",
+			"RISPOSTA 4 Il 5,5% di cittadini italiani",
+			"RISPOSTA 2 l' 8,7% di cittadini italiani"
+		]
+	},
+	{
+		"question": "DOMANDA 12 Lo ius scholae è il modello basato sull'ottenimento della cittadinanza al termine di",
+		"answers": [
+			"RISPOSTA 1 un percorso scolastico di 10 anni",
+			"RISPOSTA 4 Nessuna risposta",
+			"RISPOSTA 3 Un percorso scolastico di tre anni",
+			"RISPOSTA 2 Un percorso scolastico di sette anni"
+		]
+	},
+	{
+		"question": "DOMANDA 2 La legge Turco Napolitano è datata",
+		"answers": [
+			"RISPOSTA 4 1998",
+			"RISPOSTA 1 1991",
+			"RISPOSTA 2 1997",
+			"RISPOSTA 3 1993"
+		]
+	},
+	{
+		"question": "DOMANDA 3 L'accoglienza comprende",
+		"answers": [
+			"RISPOSTA 4 Nessuna risposta",
+			"RISPOSTA 3 Adempimenti giudiziari",
+			"RISPOSTA 1 Adempimenti formali",
+			"RISPOSTA 2 Adempimenti informali"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Viene assegnato dall'a.s. 2025/26 un docente di Italiano per stranieri nelle classi in cui gli studenti stranieri sono in percentuale",
+		"answers": [
+			"RISPOSTA 2 Superiori al 20%",
+			"RISPOSTA 3 Superiori o Pari al 10%",
+			"RISPOSTA 1 Pari o Superiore al 20%",
+			"RISPOSTA 4 Superiori o pari al 30%"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Le life skills lavorano",
+		"answers": [
+			"RISPOSTA 2 Sul duro lavoro di studio",
+			"RISPOSTA 1 Sull'empatia",
+			"RISPOSTA 3 Sulla appartenenza al gruppo classe",
+			"RISPOSTA 4 Sull'appartenenza di un gruppo linguistico"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Le difficoltà linguistiche sono:",
+		"answers": [
+			"RISPOSTA 1 Ponti sociali",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 2 Barriere",
+			"RISPOSTA 3 Motivo di relazione con i pari"
+		]
+	},
+	{
+		"question": "DOMANDA 5 La maggioranza di alunni stranieri nella scelta della scuola secondaria di secondo grado, optano per",
+		"answers": [
+			"RISPOSTA 2 Istituti tecnici",
+			"RISPOSTA 1 Licei",
+			"RISPOSTA 3 Istituti professionali",
+			"RISPOSTA 4 Nessuna nessuna risposta"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Percorsi di alfabetizzazione L2,",
+		"answers": [
+			"RISPOSTA 1 Vedono lo studio dell'italiano come prima lingua",
+			"RISPOSTA 2 Vedono lo studio italiano come seconda lingua",
+			"RISPOSTA 3 Promuovono lo studio dell'italiano e di una lingua europea",
+			"RISPOSTA 4 Promuovono lo studio dell'italiano e della lingua inglese"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Tra strategie dell'accoglienza troviamo",
+		"answers": [
+			"RISPOSTA 2 L'atteggiamento",
+			"RISPOSTA 1 La gestualità",
+			"RISPOSTA 3 Il parlare sottovoce",
+			"RISPOSTA 4 La parlata fluente"
+		]
+	},
+	{
+		"question": "DOMANDA 10 La ricerca dimostra che l'apprendimento linguistico è legato",
+		"answers": [
+			"RISPOSTA 1 Allo studio cospicuo",
+			"RISPOSTA 2 Alle emozioni",
+			"RISPOSTA 3 Alle esercitazioni",
+			"RISPOSTA 4 Alla rassicurazione"
+		]
+	},
+	{
+		"question": "DOMANDA1 La prima accoglienza a scuola è",
+		"answers": [
+			"RISPOSTA 3 Un passaggio di frustrazione",
+			"RISPOSTA 2 Un passaggio delicato",
+			"RISPOSTA 4 Nessuna risposta",
+			"RISPOSTA 1 Un passaggio non difficoltoso"
+		]
+	},
+	{
+		"question": "DOMANDA 2 È un bisogno linguistico:",
+		"answers": [
+			"RISPOSTA 3 Imparare l'italiano come seconda lingua L2",
+			"RISPOSTA 2 Produrre testi scritti orali",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Socializzare con i compagni"
+		]
+	},
+	{
+		"question": "DOMANDA 3 I bisogni degli alunni immigrati dipendono da",
+		"answers": [
+			"RISPOSTA 3 il tempo trascorso in Italia",
+			"RISPOSTA 1 L'empatia personale",
+			"RISPOSTA 2 La partecipazione a gruppi sportivi",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Studi dell' Università dell'Iowa affermano che la barriera linguistica porta",
+		"answers": [
+			"RISPOSTA 3 A problematiche con i compagni di classe",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 All'aggressività",
+			"RISPOSTA 2 Ad una maggior capacità di autocontrollo"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Un campione composto da madri e figli che parlano la stessa lingua porta a",
+		"answers": [
+			"RISPOSTA 1 Un atteggiamento di esclusione",
+			"RISPOSTA 2 Un aumento dell'autocontrollo",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 3 Un aumento dell'aggressività"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Schofield è propenso a far sì che",
+		"answers": [
+			"RISPOSTA 3 I genitori immigrati imparino la lingua del paese in cui sono nati",
+			"RISPOSTA 2 I figli dell'immigrati parlino l'inglese",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 I genitori immigrati imparino la lingua del paese dove sono residenti"
+		]
+	},
+	{
+		"question": "DOMANDA 3 L'apprendimento della L2 risente",
+		"answers": [
+			"RISPOSTA 2 Della motivazione",
+			"RISPOSTA 3 Dell'inclusione",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Dell'autostima"
+		]
+	},
+	{
+		"question": "DOMANDA 2 La didattica L2 per DSA",
+		"answers": [
+			"RISPOSTA 1 Privilegia le attività orali di ascolto rispetto alle scritte",
+			"RISPOSTA 2 Privilegia le attività scritte rispetto alle orali",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 3 Privilegia le attività tecnologiche informatiche"
+		]
+	},
+	{
+		"question": "DOMANDA 1 BES per non conoscenza della cultura della lingua italiana, vengono indicati",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 2 Nella C.M 3 del 6 giugno 2014",
+			"RISPOSTA 1 Nella C.M 8 del 6 marzo 2013",
+			"RISPOSTA 3 Nella CM 5, del 7 settembre 2018"
+		]
+	},
+	{
+		"question": "DOMANDA 11 La nascita della scuola dell'inclusione trova fondamento",
+		"answers": [
+			"RISPOSTA 3 Nella teoria della psicologia dell'inclusione",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Nella teoria della pedagogia dell'inclusione",
+			"RISPOSTA 2 Nella teoria della sociologia dell'inclusione"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Le vaccinazioni sono attestate",
+		"answers": [
+			"RISPOSTA 2 Nel documento sanitario",
+			"RISPOSTA 4 Vengono attestate dalla scuola",
+			"RISPOSTA 1 Nella carta d'identità personale",
+			"RISPOSTA 3 Non vengono attestate"
+		]
+	},
+	{
+		"question": "DOMANDA 10 BES e SEN",
+		"answers": [
+			"RISPOSTA 2 Sono la medesima certificazione",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 3 Non sono certificazioni",
+			"RISPOSTA 1 Sono due distinte certificazioni"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il permesso di soggiorno",
+		"answers": [
+			"RISPOSTA 3 Viene rilasciato dopo aver sostenuto un esame linguistico",
+			"RISPOSTA 1 Viene rilasciato direttamente all'alunno straniero che abbia compiuto il 14º anno di età",
+			"RISPOSTA 2 Viene rilasciato ai suoi genitori anche se è maggiorenne",
+			"RISPOSTA 4 Tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Un'iscrizione con riserva",
+		"answers": [
+			"RISPOSTA 3 Permette che permesso di soggiorno sia più rapido",
+			"RISPOSTA 4 tutte le precedenti",
+			"RISPOSTA 2 Non pregiudica il conseguimento del titolo conclusivo del corso di studi",
+			"RISPOSTA 1 pregiudica il conseguimento del titolo conclusivo del corso di studi"
+		]
+	},
+	{
+		"question": "DOMANDA 5 I PDP possono essere calibrati sugli obiettivi minimi di apprendimento e possono includere",
+		"answers": [
+			"RISPOSTA 3 Scelte metodologiche alternative",
+			"RISPOSTA 2 Recuperi a fine anno scolastico",
+			"RISPOSTA 1 Assenze che superano i 50% del totale",
+			"RISPOSTA 4 Tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 6 L'insegnante inclusivo",
+		"answers": [
+			"RISPOSTA 1 Sceglie gli strumenti compensativi",
+			"RISPOSTA 4 Tiene la distanza sociale con gli alunni",
+			"RISPOSTA 3 È consapevole che tutti gli alunni hanno le stesse potenzialità",
+			"RISPOSTA 2 Adatta la didattica attraverso strategie differenziate"
+		]
+	},
+	{
+		"question": "DOMANDA 4 L'insegnante L2 è",
+		"answers": [
+			"RISPOSTA 2 Facilitatore",
+			"RISPOSTA 4 Tutte le Risposte",
+			"RISPOSTA 3 Catalogatore",
+			"RISPOSTA 1 Negoziatore"
+		]
+	},
+	{
+		"question": "DOMANDA 7 La didattica ha per oggetto di studio",
+		"answers": [
+			"RISPOSTA 3 I metodi delle tecniche di insegnamento",
+			"RISPOSTA 2 I metodi linguistici per la disabilità",
+			"RISPOSTA 4 La formazione degli alunni",
+			"RISPOSTA 1 L'insegnamento comune alle discipline"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il metodo è",
+		"answers": [
+			"RISPOSTA 3 Una teoria specifica dell'apprendimento",
+			"RISPOSTA 1 Un modo di operare",
+			"RISPOSTA 4 Una tecnica molto moderna",
+			"RISPOSTA 2 Un insieme strutturato di procedure"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Imparare ad imparare, rientra",
+		"answers": [
+			"RISPOSTA 1 Nella didattica per concetti",
+			"RISPOSTA 2 Nella didattica orientativa",
+			"RISPOSTA 3 Nella didattica metacognitiva",
+			"RISPOSTA 4 In nessuna delle tre"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Per TIC si intende",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 Una manifestazione dell'ADHD",
+			"RISPOSTA 3 Un corso di perfezionamento per L2",
+			"RISPOSTA 2 Un Insieme di Tecnologie comunicative dell'informazione"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Impagliazzo sostiene che l'inserimento scolastico",
+		"answers": [
+			"RISPOSTA 1 E tra i principali indicatori della presenza straniera sul territorio",
+			"RISPOSTA 4 È l'insieme delle risorse umane soggettive",
+			"RISPOSTA 3 È una collaborazione tra scuole famiglia",
+			"RISPOSTA 2 È un processo di integrazione individuale"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Gli ostacoli dovuti alla differenza di lingua nella comunicazione prendono nome di",
+		"answers": [
+			"RISPOSTA 1 Diversità comunicativa",
+			"RISPOSTA 2 Interruzioni fluenti",
+			"RISPOSTA 4 Sbarramento comunicativo",
+			"RISPOSTA 3 Barriere linguistiche"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Il senso proattivo di appartenenza scongiura",
+		"answers": [
+			"RISPOSTA 3 Il rischio di bullismo",
+			"RISPOSTA 2 Il rischio di emarginazione",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Il rischio di analfabetismo"
+		]
+	},
+	{
+		"question": "DOMANDA 10 La classe di concorso A23 trova radici",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 Con il d.p.r. del 10 marzo 2020",
+			"RISPOSTA 2 Con il d.p.r. del 2 agosto 2018",
+			"RISPOSTA 3 Con il d.p.r. del 14 febbraio 2016"
+		]
+	},
+	{
+		"question": "DOMANDA 9 L'inserimento scolastico è reso complicato da",
+		"answers": [
+			"RISPOSTA 1 Gap linguistici didattici",
+			"RISPOSTA 3 Mancanza di supporto interculturali o inclusivi",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 2 Diversità nei sistemi educativi"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il distacco da amici e familiari comporta",
+		"answers": [
+			"RISPOSTA 4 Una reazione positiva",
+			"RISPOSTA 3 Un rinforzo della personalità",
+			"RISPOSTA 1 Uno shock culturale",
+			"RISPOSTA 2 Un trauma da separazione"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Le competenze Calp in Italia sono denominate",
+		"answers": [
+			"RISPOSTA 1 Studio dell' italiano integrato",
+			"RISPOSTA 3 Linguaggio cognitivo del Paese",
+			"RISPOSTA 2 Italiano per lo studio",
+			"RISPOSTA 4 Scuola di cultura integrativa"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Coping è",
+		"answers": [
+			"RISPOSTA 3 Strategie metodologiche",
+			"RISPOSTA 2 Strategia di adattamento",
+			"RISPOSTA 4 Strategia emotiva",
+			"RISPOSTA 1 Strategia didattica"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Il lutto migratorio",
+		"answers": [
+			"RISPOSTA 3 È' un processo psicologico",
+			"RISPOSTA 2 È' sinonimo di adattamento",
+			"RISPOSTA 1 È' uno sradicamento del sé",
+			"RISPOSTA 4 È' uno shock culturale"
+		]
+	},
+	{
+		"question": "DOMANDA 4 È' corretto valorizzare la lingua madre dello studente?",
+		"answers": [
+			"RISPOSTA 1 Sì",
+			"RISPOSTA 2 No",
+			"RISPOSTA 4 Assolutamente no",
+			"RISPOSTA 3 In parte"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Semplificazione e didattizzazione di un testo",
+		"answers": [
+			"RISPOSTA 4 Implica la padronanza di Life skills",
+			"RISPOSTA 2 Implica un'analisi lessicale e sintattica capillare",
+			"RISPOSTA 1 Implica un'analisi sintattica globale",
+			"RISPOSTA 3 Implica un'analisi glottodidattica settoriale"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Classi eterogenee sono sinonimo di",
+		"answers": [
+			"RISPOSTA 2 Depotenziamento",
+			"RISPOSTA 3 Dispersione",
+			"RISPOSTA 1 Arricchimento",
+			"RISPOSTA 4 Rilevanza numerica"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Le Dashboard descrivono",
+		"answers": [
+			"RISPOSTA 3 Il contesto dell'istruzione",
+			"RISPOSTA 2 Il contesto socio economico",
+			"RISPOSTA 1 Il contesto umano",
+			"RISPOSTA 4 Il contesto giuridico"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Il libro parlato è ritenuto",
+		"answers": [
+			"RISPOSTA 3 Risorsa poco gestibile",
+			"RISPOSTA 1 Risorsa di base",
+			"RISPOSTA 4 Risorsa inutile",
+			"RISPOSTA 2 Risorsa utile"
+		]
+	},
+	{
+		"question": "DOMANDA 5 A livello europeo il profilo del docente L2 è",
+		"answers": [
+			"RISPOSTA 3 Diversificato da nord a sud",
+			"RISPOSTA 4 Coincidente",
+			"RISPOSTA 2 Eterogeneo",
+			"RISPOSTA 1 Omogeneo"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Il profilo del QCER europeo individua",
+		"answers": [
+			"RISPOSTA 2 Sei aree articolate in 30 punti di supporto",
+			"RISPOSTA 4 Tre aree articolate in 30 punti di supporto",
+			"RISPOSTA 1 Quattro aree articolate in 40 punti di supporto",
+			"RISPOSTA 3 Cinque aree articolate 25 punti di supporto"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Sull'apprendimento, con l'acronimo DSI ci si riferisce a",
+		"answers": [
+			"RISPOSTA 2 Sperimentazione digitali ed informatiche",
+			"RISPOSTA 3 Didattica attraverso l'informatica",
+			"RISPOSTA 1 Strumenti e risorse digitali",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 8 L'apprendimento Clean in Italia è sperimentato da decenni in",
+		"answers": [
+			"RISPOSTA 1 Trentino Alto Adige",
+			"RISPOSTA 3 Friuli Venezia Giulia",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 2 Veneto"
+		]
+	},
+	{
+		"question": "DOMANDA 11 Ha trattato l'approccio induttivo",
+		"answers": [
+			"RISPOSTA 1 Gouin",
+			"RISPOSTA 3 Audubel",
+			"RISPOSTA 4 Berlitz",
+			"RISPOSTA 2 Chomsky"
+		]
+	},
+	{
+		"question": "DOMANDA 9 La Glottodidattica",
+		"answers": [
+			"RISPOSTA 1 Ha dimensione multidisciplinare",
+			"RISPOSTA 2 Ha dimensione interdisciplinare",
+			"RISPOSTA 3 A dimensione monodisciplinare",
+			"RISPOSTA 4 A dimensione prassidisciplinare"
+		]
+	},
+	{
+		"question": "DOMANDA 10 L'apprendimento significativo è stato trattato da",
+		"answers": [
+			"RISPOSTA 1 Chomsky",
+			"RISPOSTA 2 Ausubel",
+			"RISPOSTA 4 Balboni",
+			"RISPOSTA 3 Piaget"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Ha sostenuto l'importanza di un input modificato fra gli anni 70 e 80 del novecento",
+		"answers": [
+			"RISPOSTA 3 Coyle",
+			"RISPOSTA 2 Dewey",
+			"RISPOSTA 4 Serale",
+			"RISPOSTA 1 Long"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Introduce il concetto di \"competenza linguistica\"",
+		"answers": [
+			"RISPOSTA 2 Noam Chomsky",
+			"RISPOSTA 1 Del Hyme",
+			"RISPOSTA 3 John Austin",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 3 La metodologia CLIL è suggerita nelle scuole europee dal",
+		"answers": [
+			"RISPOSTA 1 2012",
+			"RISPOSTA 3 2014",
+			"RISPOSTA 4 2011",
+			"RISPOSTA 2 2013"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Nei programmi di educazione bilingue la L2 veicolare può essere utilizzata",
+		"answers": [
+			"RISPOSTA 3 Per tutte le discipline",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 2 Per due discipline",
+			"RISPOSTA 1 Per una sola disciplina"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Il percorso CLIL mira allo sviluppo di abilità linguistiche in L2 e",
+		"answers": [
+			"RISPOSTA 2 Alla produzione linguistica di livello massimo scritta e orale",
+			"RISPOSTA 1 Alle abilità di studio relative alla discipline",
+			"RISPOSTA 4 Tutte tutte le risposte",
+			"RISPOSTA 3 A livello C1"
+		]
+	},
+	{
+		"question": "DOMANDA 6 LTTA",
+		"answers": [
+			"RISPOSTA 3 È una metodologia per plurilingue",
+			"RISPOSTA 1 È una metodologia linguistica creativa",
+			"RISPOSTA 4 È una metodologia dell'attenzione",
+			"RISPOSTA 2 È una metodologia per competenze"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Nel metodo Berlitz",
+		"answers": [
+			"RISPOSTA 1 La conversazione e l'ascolto sono fondamentali",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 2 L'insegnante guida guida con domande dell'alunno che risponde attivamente",
+			"RISPOSTA 3 In aula si parla solo lingua straniera"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il metodo audio linguale è nato",
+		"answers": [
+			"RISPOSTA 2 Negli Stati Uniti",
+			"RISPOSTA 1 In Inghilterra",
+			"RISPOSTA 4 In Olanda",
+			"RISPOSTA 3 In Italia"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Fossilizzazione è un termine definito da",
+		"answers": [
+			"RISPOSTA 4 Corder",
+			"RISPOSTA 2 Sellinker",
+			"RISPOSTA 3 Berlitz",
+			"RISPOSTA 1 Spera"
+		]
+	},
+	{
+		"question": "DOMANDA 9 LAD è la teoria secondo la quale",
+		"answers": [
+			"RISPOSTA 2 La lingua si apprende nel periodo d'oro dell'età infantile",
+			"RISPOSTA 3 La competenza linguistica si basa solo sull'acquisizione della lingua madre",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Il l meccanismo di acquisizione linguistica è innato"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Il concetto Interlingua corrisponde",
+		"answers": [
+			"RISPOSTA 2 All'acquisizione durante l'apprendimento scolastico",
+			"RISPOSTA 3 All'acquisizione determinata quantitativamente dagli input linguistici",
+			"RISPOSTA 1 All'acquisizione della lingua in contesto naturale",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Se l'input è scarso si sviluppano Interlingue",
+		"answers": [
+			"RISPOSTA 1 Piedginizzate",
+			"RISPOSTA 2 Fossilizzate",
+			"RISPOSTA 3 Compatte",
+			"RISPOSTA 4 Basiche"
+		]
+	},
+	{
+		"question": "DOMANDA 3 L'approccio dei sistemi simbolici dell'intelligenze multiple è una teoria di",
+		"answers": [
+			"RISPOSTA 1 Gardner",
+			"RISPOSTA 3 Goleman",
+			"RISPOSTA 2 Garbner",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Nella teoria delle intelligenze multiple I tipi di intelligenza sono",
+		"answers": [
+			"RISPOSTA 4 11",
+			"RISPOSTA 2 9",
+			"RISPOSTA 3 10",
+			"RISPOSTA 1 8"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Strategie euristicche",
+		"answers": [
+			"RISPOSTA 2 Sono modelli di apprendimento reali",
+			"RISPOSTA 3 Sono modelli di didattica concreta",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Sono concreti operativi sollecitati da un problema di apprendimento"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Le strategie di apprendimento di Rebecca Oxford sono",
+		"answers": [
+			"RISPOSTA 1 Due",
+			"RISPOSTA 2 Tre",
+			"RISPOSTA 4 Cinque",
+			"RISPOSTA 3 Quattro"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Il modello di Rubin riguarda lo studio",
+		"answers": [
+			"RISPOSTA 1 Sulle strategie degli apprendenti efficaci di L2",
+			"RISPOSTA 3 Strategie metodologiche e didattiche in L1 e L2",
+			"RISPOSTA 4 Strategie metodologiche interattive in L2",
+			"RISPOSTA 2 Sulle strategie metodologiche L1 e L2"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il Foreigner talk e Teacher talk",
+		"answers": [
+			"RISPOSTA 2 Sono lingue che utilizzano lo stesso canali linguistici diversi",
+			"RISPOSTA 3 Sono lingue parlate dalla seconda generazione",
+			"RISPOSTA 1 Sono lingue modificate per semplificare la comprensione dell'interlocutore",
+			"RISPOSTA 4 tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Il ritmo la pausa il tono e la velocità di emissione sono",
+		"answers": [
+			"RISPOSTA 3 Elementi prosodici",
+			"RISPOSTA 2 Elementi sostanziali",
+			"RISPOSTA 4 Elementi metodologici",
+			"RISPOSTA 1 Elementi formali"
+		]
+	},
+	{
+		"question": "DOMANDA 1 È obiettivo della mediazione comunicativa:",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 Facilitare la comprensione significa",
+			"RISPOSTA 3 Rendere consapevoli del loro gap linguistico gli apprendenti",
+			"RISPOSTA 2 Dare forma a una comunicazione efficace tra utenti e apprendenti"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Proficiency",
+		"answers": [
+			"RISPOSTA 3 Include in sé le capacità di parlare fluentemente la lingua lingua L2",
+			"RISPOSTA 1 Include in sé le capacità di svolgere attività linguistico comunicative",
+			"RISPOSTA 2 Include in sé le capacità di saper scrivere in maniera corretta",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Lo sforzo richiesto all'interlocutore per decodificare il messaggio dei locutori si dice",
+		"answers": [
+			"RISPOSTA 1 Decifrabilità",
+			"RISPOSTA 3 Intelligibilità",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 2 Capacità di fluenza"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Il pluriculturalismo",
+		"answers": [
+			"RISPOSTA 3 È la partecipazione piena alla vita politico-culturale",
+			"RISPOSTA 2 E la capacità di valorizzare la diversità culturale degli individui",
+			"RISPOSTA 1 È il bisogno di apprendere più culture",
+			"RISPOSTA 4 È una forma moderna di inclusione"
+		]
+	},
+	{
+		"question": "DOMANDA 5 È stata data molto importanza ai corsi della lingua dei segni",
+		"answers": [
+			"RISPOSTA 1 Nel QCER 2012",
+			"RISPOSTA 4 Nei trattati europei sul plurilinguismo",
+			"RISPOSTA 3 Nel Decreto Legge 32 del 6 maggio 2020",
+			"RISPOSTA 2 Nel Companion volume"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Il progetto ProSign ha elaborato",
+		"answers": [
+			"RISPOSTA 2 Le varianti delle scale 2001",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 3 La norma italiana sull'inclusione",
+			"RISPOSTA 1 Il QCER"
+		]
+	},
+	{
+		"question": "DOMANDA 7 I curricoli sono",
+		"answers": [
+			"RISPOSTA 2 Finalizzati al transfer di abilità linguistiche e creative L2",
+			"RISPOSTA 1 Finalizzati all'indicazione di obiettivi per lo sviluppo della competenza plurilingue",
+			"RISPOSTA 3 Alla diversificazione degli obiettivi generali della materia L2",
+			"RISPOSTA 4 Alla diversificazione degli obiettivi specifici della materia L2"
+		]
+	},
+	{
+		"question": "DOMANDA 8 LS1 LS2 LS3 nella scuola superiore",
+		"answers": [
+			"RISPOSTA 4 È uno scenario progettuale",
+			"RISPOSTA 2 È uno scenario impossibile",
+			"RISPOSTA 3 È uno scenario curricolare complesso e multidimensionale",
+			"RISPOSTA 1 È uno scenario possibile"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Il QCER",
+		"answers": [
+			"RISPOSTA 2 Ha estensioni sul ruolo e sulla professionalità dell'insegnanti",
+			"RISPOSTA 3 Ha estensioni sul ruolo, la professionale e il carattere degli insegnanti",
+			"RISPOSTA 1 Ha estensioni sul ruolo degli insegnanti",
+			"RISPOSTA 4 Ha estensioni sul ruolo sulla professionalità e sulla padronanza di conoscenze linguistiche"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Secondo il QCER insegnanti e apprendenti",
+		"answers": [
+			"RISPOSTA 3 Spetta solo al docente specificare i ruoli nella gestione dell'apprendimento linguistico",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 2 Non spetta ad entrambi specificare i ruoli nella gestione dell'apprendimento linguistico",
+			"RISPOSTA 1 Devono specificare quali sono i ruoli responsabilità nella gestione dell'apprendimento linguistico"
+		]
+	},
+	{
+		"question": "DOMANDA 10 La correzione in classe da parte del docente",
+		"answers": [
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Rende l'autovalutazione nulla",
+			"RISPOSTA 3 Può avvenire in qualsiasi momento del percorso educativo formativo",
+			"RISPOSTA 2 Ha luogo nei momenti istituzionali di verifica"
+		]
+	},
+	{
+		"question": "DOMANDA 7 Nei metodi audio orali",
+		"answers": [
+			"RISPOSTA 3 Gli errori di derivano da mala interpretazione",
+			"RISPOSTA 2 Gli errori sono di natura deduttiva",
+			"RISPOSTA 1 Gli errori sono di natura fonetica",
+			"RISPOSTA 4 Gli errori sono pragmatici"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Nella L2 l'errore può essere dovuto a",
+		"answers": [
+			"RISPOSTA 4 Ansia degli apprendenti",
+			"RISPOSTA 3 Risposta depistante",
+			"RISPOSTA 1 Consegne imprecise",
+			"RISPOSTA 2 Assenza di un modello unico di riferimento"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Selinker hai ipotizzato",
+		"answers": [
+			"RISPOSTA 3 Due processi del percorso interiore",
+			"RISPOSTA 4 Nessun processo del percorso interiore",
+			"RISPOSTA 2 Sei processi del percorso interiore",
+			"RISPOSTA 1 Cinque processi del percorso interiore"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Ogni apprendente ha esperienze diverse rispetto agli altri per cui",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 L'insegnante deve tenere un unica strategie per tutti gli apprendente",
+			"RISPOSTA 3 Ogni singolo individuo deve impostare l'intervento didattico che più desidera",
+			"RISPOSTA 2 Ogni apprendente mette in atto strategie di apprendimento personali"
+		]
+	},
+	{
+		"question": "DOMANDA 6 Nell'approccio umanistico-affettivo",
+		"answers": [
+			"RISPOSTA 1 L'apprendente \"subisce\" la difficoltà di una nozione ed erra",
+			"RISPOSTA 2 L'apprendente è artefice e l'errore è il modo in cui lui lo percepisce",
+			"RISPOSTA 4 L'apprendente è molto sicuro di sé e facilmente erra",
+			"RISPOSTA 3 L'apprendente è indotto ad errare per distrazione"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Per l'approccio comunicativo minimalista",
+		"answers": [
+			"RISPOSTA 3 Gli errori sono soggettivi",
+			"RISPOSTA 2 Gli errori sono di tipo comunicativo",
+			"RISPOSTA 4 Gli errori sono di natura fonetica",
+			"RISPOSTA 1 Gli errori sono di tipo pragmatico"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Per i glottodidatti gli errori nella L2",
+		"answers": [
+			"RISPOSTA 1 Sono utili per constatare lo scarso impegno degli apprendenti",
+			"RISPOSTA 3 Sono utili per pianificare, organizzare e verificare il lavoro in classe i programmi",
+			"RISPOSTA 4 Sono utili al consiglio di classe",
+			"RISPOSTA 2 Sono utili per verificare il lavoro in classe"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Errori di studenti di LM diverse significano",
+		"answers": [
+			"RISPOSTA 3 Che non si tratta di un'interferenza linguistica in quanto meccanismo universale creativo",
+			"RISPOSTA 2 Che si tratta di un'interferenza linguistica",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 Che un argomento è molto difficile da comprendere"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Gli errori nella L2",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 3 Sono molteplici segnali di malfunzionamento dell'insegnamento",
+			"RISPOSTA 2 Sono indicatori di mutamento ed evoluzione linguistica",
+			"RISPOSTA 1 Sono da sempre di un solo tipo"
+		]
+	},
+	{
+		"question": "DOMANDA 11 Nella correzione il docente deve tenere conto",
+		"answers": [
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 5",
+			"RISPOSTA 2 Della sensibilità dell'apprendente",
+			"RISPOSTA 1 Del background dell'apprendente"
+		]
+	},
+	{
+		"question": "DOMANDA 1 Nella comunicazione distanziata",
+		"answers": [
+			"RISPOSTA 3 Il testo scritto è molto soggettivo",
+			"RISPOSTA 1 Mancano elementi paralinguistici",
+			"RISPOSTA 2 Sono troppo numerosi gli elementi contestuali",
+			"RISPOSTA 4 Il linguaggio è informale"
+		]
+	},
+	{
+		"question": "DOMANDA 2 La scrittura",
+		"answers": [
+			"RISPOSTA 3 È un atto revisiona abile",
+			"RISPOSTA 2 È un atto pianificato",
+			"RISPOSTA 1 È' un atto controllato",
+			"RISPOSTA 4 Tutte le precedenti"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Si utilizza la comunicazione controllata per",
+		"answers": [
+			"RISPOSTA 3 Poter arrivare all'esame di Stato capaci di soddisfacente produzione scritta",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Far sperimentare agli studenti il processo di pianificazione e stesura e revisione di un testo scritto",
+			"RISPOSTA 2 Organizzare il piano di studi di tutto l'anno scolastico"
+		]
+	},
+	{
+		"question": "DOMANDA 4 Il linguista Frost sulla capacità di ascolto ha scandito per essa",
+		"answers": [
+			"RISPOSTA 1 Tre fasi",
+			"RISPOSTA 3 Cinque fasi",
+			"RISPOSTA 4 Nessuna delle precedenti",
+			"RISPOSTA 2 Quattro fa"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Secondo Halliwell",
+		"answers": [
+			"RISPOSTA 4 Richiede agli apprendenti di prendere appunti mentre ascoltano",
+			"RISPOSTA 3 Richiedi gli apprendenti di concentrarsi al massimo mentre ascoltano",
+			"RISPOSTA 1 Una didattica per sviluppare le abilità di ascolto",
+			"RISPOSTA 2 Richiede agli apprendenti di fare qualcosa mentre ascoltano"
+		]
+	},
+	{
+		"question": "DOMANDA 6 L'esecuzione dell'attività per Rizzardi richiede",
+		"answers": [
+			"RISPOSTA 1 Una risposta di tipo verbale",
+			"RISPOSTA 2 Una risposta di tipo non verbale",
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 3 Una risposta di tipo verbale e non verbale"
+		]
+	},
+	{
+		"question": "DOMANDA 7 La lettura è",
+		"answers": [
+			"RISPOSTA 2 Abilità di decodificazione interpretazione e scrittura",
+			"RISPOSTA 3 Abilità di decodificazione interpretazione e ricezione",
+			"RISPOSTA 1 Abilità di decodificazione",
+			"RISPOSTA 4 Nessuna delle risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Secondo Dressel la coesione e la coerenza",
+		"answers": [
+			"RISPOSTA 1 Sono delle non-relazioni",
+			"RISPOSTA 2 Sono informazioni superflue",
+			"RISPOSTA 3 Sono i principi costitutivi regolativi comunicativi dei testi",
+			"RISPOSTA 4 Sono messaggi subliminali"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Al testo argomentativo orientato sulle relazioni tra concetti e capacità cognitive si associano",
+		"answers": [
+			"RISPOSTA 4 Schemi linguistici",
+			"RISPOSTA 1 Schemi cognitivi",
+			"RISPOSTA 2 Schemi informativi",
+			"RISPOSTA 3 Schemi progettuali"
+		]
+	},
+	{
+		"question": "DOMANDA 9 Un saggio di argomento scientifico e storico letterario fa parte",
+		"answers": [
+			"RISPOSTA 2 Del testo espositivo-informativo",
+			"RISPOSTA 4 Del testo regolativo",
+			"RISPOSTA 1 Del testo descrittivo",
+			"RISPOSTA 3 Del testo narrativo"
+		]
+	},
+	{
+		"question": "DOMANDA 1 La riduzione",
+		"answers": [
+			"RISPOSTA 3 Semplifica la conoscenza",
+			"RISPOSTA 4 Tutte le risposte",
+			"RISPOSTA 1 Favorisce la comprensione",
+			"RISPOSTA 2 Facilita la lettura di un testo"
+		]
+	},
+	{
+		"question": "DOMANDA 2 Una comunicazione orientata sul messaggio e monodirezionale appartiene a",
+		"answers": [
+			"RISPOSTA 2 Un parlare per apprendere",
+			"RISPOSTA 1 Un parlare conversazione",
+			"RISPOSTA 4 Un parlare a scopo transazionale",
+			"RISPOSTA 3 Un parlare e euristico"
+		]
+	},
+	{
+		"question": "DOMANDA 3 Per esercitarsi sul parlato è utile",
+		"answers": [
+			"RISPOSTA 3 Partecipare ai momenti di socializzazione in classe",
+			"RISPOSTA 1 Discutere in classe su un tema generale",
+			"RISPOSTA 2 Interagire una video conferenza",
+			"RISPOSTA 4 Tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 4 La tecnica del dialogo a catena",
+		"answers": [
+			"RISPOSTA 3 Non aiuta a transcodificare",
+			"RISPOSTA 2 È utile per fissare atti comunicativi e strutture fisse della lingua",
+			"RISPOSTA 1 Non ha molta valenza nel parlato",
+			"RISPOSTA 4 Tutte le risposte"
+		]
+	},
+	{
+		"question": "DOMANDA 5 Comporre testi",
+		"answers": [
+			"RISPOSTA 4 È un processo costruttivo",
+			"RISPOSTA 3 È un processo identificativo",
+			"RISPOSTA 2 È un processo razionale emotivo",
+			"RISPOSTA 1 È un processo linguistico cognitivo"
+		]
+	},
+	{
+		"question": "DOMANDA 6 La funzione referenziale si può trovare",
+		"answers": [
+			"RISPOSTA 4 Nessuna delle risposte",
+			"RISPOSTA 1 Sul diario",
+			"RISPOSTA 3 Su un verbale",
+			"RISPOSTA 2 Sul racconto di esperienze personali"
+		]
+	},
+	{
+		"question": "DOMANDA 7 L'uso creativo artistico della L2",
+		"answers": [
+			"RISPOSTA 3 È importante sul piano psicologico",
+			"RISPOSTA 2 È importante sul piano relazionale",
+			"RISPOSTA 4 È importante sul piano scrittorio",
+			"RISPOSTA 1 È importante sul piano educativo"
+		]
+	},
+	{
+		"question": "DOMANDA 8 Il sillabo",
+		"answers": [
+			"RISPOSTA 1 È una parte degli obiettivi specifici",
+			"RISPOSTA 2 È una componente dell'attività curricolare sui contenuti",
+			"RISPOSTA 3 È una parte relativa alle competenze valutate",
+			"RISPOSTA 4 È una parte dell'autovalutazione"
+		]
+	},
+	{
+		"question": "DOMANDA 9 I sillabi processuali vengono detti anche",
+		"answers": [
+			"RISPOSTA 3 Procedurali",
+			"RISPOSTA 1 Proporzionali",
+			"RISPOSTA 4 Limitativi",
+			"RISPOSTA 2 Rappresentativi"
+		]
+	},
+	{
+		"question": "DOMANDA 10 Balboni nel modello di unità didattica scandisce",
+		"answers": [
+			"RISPOSTA 4 Quattro fasi della stessa",
+			"RISPOSTA 1 Cinque fasi della stessa",
+			"RISPOSTA 2 Sei fasi della stessa",
+			"RISPOSTA 3 Due fasi della stessa"
+		]
+	},
+	{
+		"question": "DOMANDA 11 Il testo letterario richiede",
+		"answers": [
+			"RISPOSTA 3 Una struttura didattica orientata",
+			"RISPOSTA 2 Una struttura didattica flessibile",
+			"RISPOSTA 1 Una struttura didattica a griglie",
+			"RISPOSTA 4 Una struttura didattica basata sull'output"
+		]
+	}
+]
