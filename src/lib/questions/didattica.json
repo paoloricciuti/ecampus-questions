@@ -10,9 +10,7 @@
 	},
 	{
 		"question": "DOMANDA 2 Nel a.s. 2023-2024 risultano iscritti nella scuola italiana",
-		"answers": [
-			"RISPOSTA 1 Più di 8"
-		]
+		"answers": ["RISPOSTA 1 Più di 8"]
 	},
 	{
 		"question": "000 ai alunni stranieri",
@@ -132,12 +130,7 @@
 	},
 	{
 		"question": "DOMANDA 2 La legge Turco Napolitano è datata",
-		"answers": [
-			"RISPOSTA 4 1998",
-			"RISPOSTA 1 1991",
-			"RISPOSTA 2 1997",
-			"RISPOSTA 3 1993"
-		]
+		"answers": ["RISPOSTA 4 1998", "RISPOSTA 1 1991", "RISPOSTA 2 1997", "RISPOSTA 3 1993"]
 	},
 	{
 		"question": "DOMANDA 3 L'accoglienza comprende",
@@ -591,12 +584,7 @@
 	},
 	{
 		"question": "DOMANDA 2 Ha sostenuto l'importanza di un input modificato fra gli anni 70 e 80 del novecento",
-		"answers": [
-			"RISPOSTA 3 Coyle",
-			"RISPOSTA 2 Dewey",
-			"RISPOSTA 4 Serale",
-			"RISPOSTA 1 Long"
-		]
+		"answers": ["RISPOSTA 3 Coyle", "RISPOSTA 2 Dewey", "RISPOSTA 4 Serale", "RISPOSTA 1 Long"]
 	},
 	{
 		"question": "DOMANDA 1 Introduce il concetto di \"competenza linguistica\"",
@@ -609,12 +597,7 @@
 	},
 	{
 		"question": "DOMANDA 3 La metodologia CLIL è suggerita nelle scuole europee dal",
-		"answers": [
-			"RISPOSTA 1 2012",
-			"RISPOSTA 3 2014",
-			"RISPOSTA 4 2011",
-			"RISPOSTA 2 2013"
-		]
+		"answers": ["RISPOSTA 1 2012", "RISPOSTA 3 2014", "RISPOSTA 4 2011", "RISPOSTA 2 2013"]
 	},
 	{
 		"question": "DOMANDA 4 Nei programmi di educazione bilingue la L2 veicolare può essere utilizzata",
@@ -708,12 +691,7 @@
 	},
 	{
 		"question": "DOMANDA 4 Nella teoria delle intelligenze multiple I tipi di intelligenza sono",
-		"answers": [
-			"RISPOSTA 4 11",
-			"RISPOSTA 2 9",
-			"RISPOSTA 3 10",
-			"RISPOSTA 1 8"
-		]
+		"answers": ["RISPOSTA 4 11", "RISPOSTA 2 9", "RISPOSTA 3 10", "RISPOSTA 1 8"]
 	},
 	{
 		"question": "DOMANDA 5 Strategie euristicche",
@@ -726,12 +704,7 @@
 	},
 	{
 		"question": "DOMANDA 6 Le strategie di apprendimento di Rebecca Oxford sono",
-		"answers": [
-			"RISPOSTA 1 Due",
-			"RISPOSTA 2 Tre",
-			"RISPOSTA 4 Cinque",
-			"RISPOSTA 3 Quattro"
-		]
+		"answers": ["RISPOSTA 1 Due", "RISPOSTA 2 Tre", "RISPOSTA 4 Cinque", "RISPOSTA 3 Quattro"]
 	},
 	{
 		"question": "DOMANDA 7 Il modello di Rubin riguarda lo studio",

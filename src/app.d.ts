@@ -4,7 +4,10 @@ import type { User, Session } from 'better-auth/minimal';
 // for information about these interfaces
 declare global {
 	namespace App {
-		interface Locals { user?: User; session?: Session }
+		interface Locals {
+			user?: User;
+			session?: Session;
+		}
 
 		// interface Error {}
 		// interface PageData {}
@@ -12,5 +15,7 @@ declare global {
 		// interface Platform {}
 	}
 }
+
+declare module '*.css';
 
 export {};

@@ -181,12 +181,7 @@
 	},
 	{
 		"question": "Chi propose per primo la distinzione rigorosa fra approccio, metodo e tecnica?",
-		"answers": [
-			"Edward Anthony",
-			"Jack C. Richards",
-			"Paolo Balboni",
-			"Theodore S. Rodgers"
-		]
+		"answers": ["Edward Anthony", "Jack C. Richards", "Paolo Balboni", "Theodore S. Rodgers"]
 	},
 	{
 		"question": "Nel modello di Anthony, l'approccio rappresentava",
@@ -226,12 +221,7 @@
 	},
 	{
 		"question": "Chi, tra i primi, usò il termine \"glottodidattica\" negli anni Sessanta?",
-		"answers": [
-			"Renzo Titone",
-			"Giovanni Freddi",
-			"Gianfranco Porcelli",
-			"Paolo Balboni"
-		]
+		"answers": ["Renzo Titone", "Giovanni Freddi", "Gianfranco Porcelli", "Paolo Balboni"]
 	},
 	{
 		"question": "Le componenti dell'universo epistemologico secondo Balboni comprendono",
@@ -793,12 +783,7 @@
 	},
 	{
 		"question": "La nozione di competenza comunicativa nasce come risposta alla visione di",
-		"answers": [
-			"Edward Sapir",
-			"Leonard Bloomfield",
-			"Ferdinand de Saussure",
-			"Noam Chomsky"
-		]
+		"answers": ["Edward Sapir", "Leonard Bloomfield", "Ferdinand de Saussure", "Noam Chomsky"]
 	},
 	{
 		"question": "Il concetto di competenza comunicativa unisce alla conoscenza linguistica",
@@ -2134,12 +2119,7 @@
 	},
 	{
 		"question": "Quale autore ha sviluppato la teoria dei “repertori plurilingui” nella didattica multiliteracies?",
-		"answers": [
-			"Halliday",
-			"Canagarajah",
-			"Jenkins",
-			"Van Leeuwen"
-		]
+		"answers": ["Halliday", "Canagarajah", "Jenkins", "Van Leeuwen"]
 	},
 	{
 		"question": "Secondo Cummins, quale attività è fondamentale per una didattica multiliteracies efficace?",

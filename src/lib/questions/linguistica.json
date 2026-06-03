@@ -100,21 +100,11 @@
 	},
 	{
 		"question": "Come di chiama la minima unità grafica di un sistema alfabetico?",
-		"answers": [
-			"fonema",
-			"fono",
-			"morfema",
-			"grafema"
-		]
+		"answers": ["fonema", "fono", "morfema", "grafema"]
 	},
 	{
 		"question": "Segmenti dotati di carattere distitintivo sono detti:",
-		"answers": [
-			"grafemi",
-			"foni",
-			"consonanti",
-			"fonemi"
-		]
+		"answers": ["grafemi", "foni", "consonanti", "fonemi"]
 	},
 	{
 		"question": "In italiano, la lunghezza vocalica:",
@@ -136,21 +126,11 @@
 	},
 	{
 		"question": "L'inserzione di [i] nel sintagma «per iscritto» è un caso di:",
-		"answers": [
-			"epentesi",
-			"epitesi",
-			"aferesi",
-			"prostesi"
-		]
+		"answers": ["epentesi", "epitesi", "aferesi", "prostesi"]
 	},
 	{
 		"question": "Un morfema a cui corrispondono diverse realizzazioni in differenti contesti sintagmatici viene detto:",
-		"answers": [
-			"allofono",
-			"allomorfo",
-			"allotropo",
-			"fonema"
-		]
+		"answers": ["allofono", "allomorfo", "allotropo", "fonema"]
 	},
 	{
 		"question": "Nelle forme «un altro» e «un'altra»:",
@@ -244,12 +224,7 @@
 	},
 	{
 		"question": "In quale di queste parole giustapposte il rapporto tra le due unità è di subordinazione?",
-		"answers": [
-			"parcheggio clienti",
-			"verde chiaro",
-			"studente lavoratore",
-			"diritto dovere"
-		]
+		"answers": ["parcheggio clienti", "verde chiaro", "studente lavoratore", "diritto dovere"]
 	},
 	{
 		"question": "La parola «prosciugamenti» è formata:",
@@ -325,12 +300,7 @@
 	},
 	{
 		"question": "Nelle frasi «Marco ha subito un sopruso» e «Molte cose preoccupano Anna», i sintagmi con funzione di Oggetto diretto sono:",
-		"answers": [
-			"un sopruso, Anna",
-			"Marco, Molte cose",
-			"Marco, Anna",
-			"un sopruso, Molte cose"
-		]
+		"answers": ["un sopruso, Anna", "Marco, Molte cose", "Marco, Anna", "un sopruso, Molte cose"]
 	},
 	{
 		"question": "Nella frase «L'ha ribadito il professore stesso», il tema:",
@@ -397,21 +367,11 @@
 	},
 	{
 		"question": "Quale delle seguenti forme non è rizotonica?",
-		"answers": [
-			"credi",
-			"credono",
-			"credete",
-			"credo"
-		]
+		"answers": ["credi", "credono", "credete", "credo"]
 	},
 	{
 		"question": "Quale dei seguenti verbi presenta un participio passato irregolare?",
-		"answers": [
-			"chiudere",
-			"finire",
-			"credere",
-			"temere"
-		]
+		"answers": ["chiudere", "finire", "credere", "temere"]
 	},
 	{
 		"question": "Quale delle seguenti frasi contiene un verbo all'aspetto perfettivo aoristico?",
@@ -433,12 +393,7 @@
 	},
 	{
 		"question": "Quale delle seguenti coppie di verbi presenta allomorfia tematica?",
-		"answers": [
-			"temei : temetti",
-			"visto : veduto",
-			"morirà : morrà",
-			"suole : soliamo"
-		]
+		"answers": ["temei : temetti", "visto : veduto", "morirà : morrà", "suole : soliamo"]
 	},
 	{
 		"question": "Quale dei verbi in corsivo delle seguenti frasi esprime un aspetto imperfettivo progressivo?",
@@ -451,21 +406,11 @@
 	},
 	{
 		"question": "Quale dei seguenti nomi è un nome massa?",
-		"answers": [
-			"farina",
-			"stormo",
-			"flotta",
-			"gruppo"
-		]
+		"answers": ["farina", "stormo", "flotta", "gruppo"]
 	},
 	{
 		"question": "Quale dei seguenti plurali indica una pluralità di elementi considerati separatamente?",
-		"answers": [
-			"fondamenti",
-			"dita",
-			"ginocchia",
-			"ossi"
-		]
+		"answers": ["fondamenti", "dita", "ginocchia", "ossi"]
 	},
 	{
 		"question": "In quali categorie si possono suddividere i determinanti?",
@@ -487,12 +432,7 @@
 	},
 	{
 		"question": "In italiano, quale di questi aggettivi può esprimere il comparativo sia in modo analitico che sintetico?",
-		"answers": [
-			"celebre",
-			"facile",
-			"misero",
-			"piccolo"
-		]
+		"answers": ["celebre", "facile", "misero", "piccolo"]
 	},
 	{
 		"question": "Quale delle seguenti frasi contiene un «avverbio verbale»?",
@@ -623,12 +563,7 @@
 	},
 	{
 		"question": "Quale tra le seguenti espressioni è «contestualmente» deittica?",
-		"answers": [
-			"io",
-			"allora",
-			"domani",
-			"subito"
-		]
+		"answers": ["io", "allora", "domani", "subito"]
 	},
 	{
 		"question": "Quale dei seguenti tratti non è caratteristico dell'italiano dell'uso medio?",
@@ -650,12 +585,7 @@
 	},
 	{
 		"question": "Quale dei seguenti calchi è un calco strutturale?",
-		"answers": [
-			"banconota",
-			"realizzare",
-			"pacchetto",
-			"bambola"
-		]
+		"answers": ["banconota", "realizzare", "pacchetto", "bambola"]
 	},
 	{
 		"question": "A quale categoria appertiene il calco «non c'è di che»?",
@@ -695,12 +625,7 @@
 	},
 	{
 		"question": "Di quante vocali toniche si compone il sistema fiorentino?",
-		"answers": [
-			"otto",
-			"tre",
-			"sette",
-			"cinque"
-		]
+		"answers": ["otto", "tre", "sette", "cinque"]
 	},
 	{
 		"question": "L'anafonesi è un fenomeno fonetico:",
@@ -713,21 +638,11 @@
 	},
 	{
 		"question": "In fiorentino, il vocalismo atono da quante vocali è composto?",
-		"answers": [
-			"sette",
-			"otto",
-			"tre",
-			"cinque"
-		]
+		"answers": ["sette", "otto", "tre", "cinque"]
 	},
 	{
 		"question": "In siciliano, il vocalismo atono da quante vocali è composto?",
-		"answers": [
-			"sette",
-			"cinque",
-			"tre",
-			"otto"
-		]
+		"answers": ["sette", "cinque", "tre", "otto"]
 	},
 	{
 		"question": "Quale delle seguenti affermazioni è falsa?",
@@ -767,12 +682,7 @@
 	},
 	{
 		"question": "L'evoluzione «ARMARIUM > armadio», quale tipo di fenomeno consonantico implica?",
-		"answers": [
-			"dissimilazione",
-			"epentesi",
-			"metatesi",
-			"assimilazione"
-		]
+		"answers": ["dissimilazione", "epentesi", "metatesi", "assimilazione"]
 	},
 	{
 		"question": "L'italiano «specchio» è:",
@@ -785,12 +695,7 @@
 	},
 	{
 		"question": "Quali di queste forme si deve al livellamento analogico?",
-		"answers": [
-			"cuoce",
-			"muore",
-			"moriamo",
-			"cuociamo"
-		]
+		"answers": ["cuoce", "muore", "moriamo", "cuociamo"]
 	},
 	{
 		"question": "La forma italiana «usignolo»:",
@@ -830,12 +735,7 @@
 	},
 	{
 		"question": "Il passaggio di un verbo da una coniugazione all'altra è detto:",
-		"answers": [
-			"cataplasmo",
-			"metatesi",
-			"metaplasmo",
-			"metalessi"
-		]
+		"answers": ["cataplasmo", "metatesi", "metaplasmo", "metalessi"]
 	},
 	{
 		"question": "Il congiuntivo imperfetto italiano:",
@@ -884,12 +784,7 @@
 	},
 	{
 		"question": "La forma «isperate» nel verso dantesco «non isperate mai veder lo cielo» è un caso di:",
-		"answers": [
-			"epentesi di /i/",
-			"epitesi di /i/",
-			"aferesi di /i/",
-			"prostesi di /i/"
-		]
+		"answers": ["epentesi di /i/", "epitesi di /i/", "aferesi di /i/", "prostesi di /i/"]
 	},
 	{
 		"question": "L'Indovinello veronese:",
@@ -938,21 +833,11 @@
 	},
 	{
 		"question": "2 Nel verso petrarchesco «vo mesurando a passi tardi e lenti», nel sintagma «tardi e lenti» che procedimento retorico troviamo?",
-		"answers": [
-			"dittologia sinonimica",
-			"polisindeto",
-			"consonanza",
-			"anafora"
-		]
+		"answers": ["dittologia sinonimica", "polisindeto", "consonanza", "anafora"]
 	},
 	{
 		"question": "La forma «aura» del primo verso del sonetto petrarchesco «Erano i capei d'oro a l'aura sparsi» è un:",
-		"answers": [
-			"provenzalismo",
-			"sicilianismo",
-			"latinismo",
-			"francesismo"
-		]
+		"answers": ["provenzalismo", "sicilianismo", "latinismo", "francesismo"]
 	},
 	{
 		"question": "La lingua del «Decameron» si presenta:",
@@ -983,12 +868,7 @@
 	},
 	{
 		"question": "Per evitare le forma dialettali, le «lingue di koiné» elaborate nelle cancellerie del Quattrocento fanno in genere ricorso:",
-		"answers": [
-			"ad arcaismi",
-			"a latinismi",
-			"a toscanismi",
-			"a neologismi"
-		]
+		"answers": ["ad arcaismi", "a latinismi", "a toscanismi", "a neologismi"]
 	},
 	{
 		"question": "L'imporsi del modello petrarchesco alla fine del Quattrocento è dimostrato:",
@@ -1001,12 +881,7 @@
 	},
 	{
 		"question": "Quali sono le date delle tre edizioni dell'«Orlando furioso» di Ludovico Ariosto?",
-		"answers": [
-			"1516, 1521, 1532",
-			"1516, 1521, 1525",
-			"1516, 1525, 1532",
-			"1521, 1525, 1532"
-		]
+		"answers": ["1516, 1521, 1532", "1516, 1521, 1525", "1516, 1525, 1532", "1521, 1525, 1532"]
 	},
 	{
 		"question": "La teoria linguistica di Bembo:",
@@ -1244,12 +1119,7 @@
 	},
 	{
 		"question": "Quale procedimento sintattico appare dominante nella lirica pascoliana «L'assiuolo»?",
-		"answers": [
-			"anastrofe",
-			"enclisi pronominale",
-			"asindeto",
-			"iperbato"
-		]
+		"answers": ["anastrofe", "enclisi pronominale", "asindeto", "iperbato"]
 	},
 	{
 		"question": "Il progetto linguistico di D'Annunzio è quello:",
@@ -1271,12 +1141,7 @@
 	},
 	{
 		"question": "La lirica dannunziana «Nella belletta» presenta già nel titolo una citazione di un testo di:",
-		"answers": [
-			"Virgilio",
-			"Orazio",
-			"Petrarca",
-			"Dante"
-		]
+		"answers": ["Virgilio", "Orazio", "Petrarca", "Dante"]
 	},
 	{
 		"question": "Quale di queste misure di politica linguistica fu intrapresa dal regime fascista?",
@@ -1325,11 +1190,6 @@
 	},
 	{
 		"question": "Quale autore sfruttò al massimo le potenzialità della lingua in senso espressionista?",
-		"answers": [
-			"Carlo Emilio Gadda",
-			"Italo Calvino",
-			"Italo Svevo",
-			"Umberto Saba"
-		]
+		"answers": ["Carlo Emilio Gadda", "Italo Calvino", "Italo Svevo", "Umberto Saba"]
 	}
 ]

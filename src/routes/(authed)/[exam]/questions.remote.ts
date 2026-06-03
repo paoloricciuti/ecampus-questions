@@ -22,12 +22,21 @@ export const save_answer = form(
 	}),
 	async ({ exam, question_id, answer }) => {
 		const user = await get_user();
-		await db.insert(answers).values({
-			exam,
-			question_id,
-			answer: +answer,
-			user_id: user.id
-		});
+		await db
+			.insert(answers)
+			.values({
+				exam,
+				question_id,
+				answer: +answer,
+				user_id: user.id
+			})
+			.onConflictDoUpdate({
+				target: [answers.exam, answers.question_id, answers.user_id],
+				set: {
+					answer: +answer
+				}
+			});
 		get_answers(exam).refresh();
+		return { saved: true };
 	}
 );

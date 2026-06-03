@@ -1,12 +1,7 @@
 [
 	{
 		"question": "In quale anno è stato è stato pubblicato l’Index per l’inclusione",
-		"answers": [
-			"2020",
-			"2010",
-			"2000",
-			"1990"
-		]
+		"answers": ["2020", "2010", "2000", "1990"]
 	},
 	{
 		"question": "Da chi è stato pubblicato l'Index per L'inclusione",
@@ -50,12 +45,7 @@
 	},
 	{
 		"question": "In particolare esperienze di sintonizzazione affettiva generano uno stato di risonanza e di unione con l'altro che permette al bambino di",
-		"answers": [
-			"sentirsi solo ammirato",
-			"sentirsi toccato",
-			"sentirsi sentito",
-			"sentirsi visto"
-		]
+		"answers": ["sentirsi solo ammirato", "sentirsi toccato", "sentirsi sentito", "sentirsi visto"]
 	},
 	{
 		"question": "A chi ci riferiamo se afferiamo: L'organizzazione dei circuiti neurali relativi alla stimolazione affettiva e all'auto-regolazione, nonché la loro capacità di",
@@ -69,21 +59,11 @@
 	},
 	{
 		"question": "Quale autore considera l'attaccamento comeo una delle aree più importanti dello sviluppo infantile",
-		"answers": [
-			"Piaget",
-			"Bruner",
-			"Dixon",
-			"montessori"
-		]
+		"answers": ["Piaget", "Bruner", "Dixon", "montessori"]
 	},
 	{
 		"question": "A quale autorie ci riferiamo con l'approccio psicologico della Embodied Cognition",
-		"answers": [
-			"Borghi",
-			"Giaconi",
-			"Montessori",
-			"Rosati"
-		]
+		"answers": ["Borghi", "Giaconi", "Montessori", "Rosati"]
 	},
 	{
 		"question": "Dal modello «logico globale» all'approccio neurologico",
@@ -96,12 +76,7 @@
 	},
 	{
 		"question": "Il modello logico del funzionamento motorio è stato elaborato da",
-		"answers": [
-			"Jeannerod",
-			"Bruner",
-			"Rosati",
-			"Piaget"
-		]
+		"answers": ["Jeannerod", "Bruner", "Rosati", "Piaget"]
 	},
 	{
 		"question": "Nell'articolo gli autori sottolineano il fatto che la dislessia-disgrafi a-discalculia siano un Disturbo",
@@ -114,12 +89,7 @@
 	},
 	{
 		"question": "a chi associamo la Teoria dei tre blocchi",
-		"answers": [
-			"Bandura",
-			"Lurija",
-			"Mencarelli",
-			"Piaget"
-		]
+		"answers": ["Bandura", "Lurija", "Mencarelli", "Piaget"]
 	},
 	{
 		"question": "Le modalità di esercizio del diritto di cui al comma 1 sono determinate dai contratti collettivi nazionali di lavoro dei comparti interessati e",
@@ -213,12 +183,7 @@
 	},
 	{
 		"question": "Nella 170 del 2010 ci sono misure per i familiari?",
-		"answers": [
-			"no",
-			"si",
-			"entrambe le risposte sono corrette",
-			"nessuna risposta è corretta"
-		]
+		"answers": ["no", "si", "entrambe le risposte sono corrette", "nessuna risposta è corretta"]
 	},
 	{
 		"question": "Come ricorda Blankertz:",
@@ -240,12 +205,7 @@
 	},
 	{
 		"question": "Per Rosati si coglie, così, un altro elemento fondativo della cultura",
-		"answers": [
-			"la disciplinarità",
-			"l'unità",
-			"l'umanità",
-			"la quantità del sapere"
-		]
+		"answers": ["la disciplinarità", "l'unità", "l'umanità", "la quantità del sapere"]
 	},
 	{
 		"question": "Secondo Blankertz il problema della diffusione dei contenuti è circoscrivibile ai seguenti aspetti:",
@@ -348,21 +308,11 @@
 	},
 	{
 		"question": "Edgar Morin e Zygmund Bauman, entrambi usano il termine alleanza/e:",
-		"answers": [
-			"si",
-			"no",
-			"parlano di sussidiarietà",
-			"hanno un approccio mentalista"
-		]
+		"answers": ["si", "no", "parlano di sussidiarietà", "hanno un approccio mentalista"]
 	},
 	{
 		"question": "Edgar Morin è l'epistemologo:",
-		"answers": [
-			"della complessità",
-			"dell'umanità",
-			"della filosofia",
-			"della semplissità"
-		]
+		"answers": ["della complessità", "dell'umanità", "della filosofia", "della semplissità"]
 	},
 	{
 		"question": "In un sistema sociale dove tutto si decompone e ricompone rapidamente, tutti i partecipanti: perdono i riferimenti sicuri della società.",
@@ -375,12 +325,7 @@
 	},
 	{
 		"question": "Guardiamo di quanti ambiti ci dobbiamo occupare:",
-		"answers": [
-			"tempo libero;",
-			"solo istruzione",
-			"solo training",
-			"solo sport"
-		]
+		"answers": ["tempo libero;", "solo istruzione", "solo training", "solo sport"]
 	},
 	{
 		"question": "Per Zygmund Bauman:",
@@ -402,12 +347,7 @@
 	},
 	{
 		"question": "Quale pedagogista introdusse l'acronimo EAS",
-		"answers": [
-			"Giaconi",
-			"Montessori",
-			"Rivoltella",
-			"Spezi"
-		]
+		"answers": ["Giaconi", "Montessori", "Rivoltella", "Spezi"]
 	},
 	{
 		"question": "Fare microlearning significa:",
@@ -429,12 +369,7 @@
 	},
 	{
 		"question": "La dislessia è un disturbo",
-		"answers": [
-			"integrato",
-			"apriori",
-			"deficitario",
-			"informale"
-		]
+		"answers": ["integrato", "apriori", "deficitario", "informale"]
 	},
 	{
 		"question": "L'inclusione esprime un assetto:",
@@ -456,9 +391,7 @@
 	},
 	{
 		"question": "Possiamo trovare una visione organica:",
-		"answers": [
-			"nelle Linee guida del 20"
-		]
+		"answers": ["nelle Linee guida del 20"]
 	},
 	{
 		"question": "La cultura dell'inclusione si fonda sulla prospettiva bio-psico-sociale alla base della classificazione ICF dell'OMS che considera la disabilità come il risultato:",
@@ -475,12 +408,7 @@
 	},
 	{
 		"question": "La classificazione ICF è:",
-		"answers": [
-			"del MIUR",
-			"dell'INVALSI",
-			"dell'OMS",
-			"della scuola capofila"
-		]
+		"answers": ["del MIUR", "dell'INVALSI", "dell'OMS", "della scuola capofila"]
 	},
 	{
 		"question": "Divengono quindi cruciali le dimensioni:",
@@ -493,12 +421,7 @@
 	},
 	{
 		"question": "In particolare esperienze di sintonizzazione affettiva generano uno stato di risonanza e di unione con l'altro che permette al bambino di",
-		"answers": [
-			"sentirsi visto",
-			"nessuna risposta è corretta",
-			"sentire",
-			"sentirsi sentito"
-		]
+		"answers": ["sentirsi visto", "nessuna risposta è corretta", "sentire", "sentirsi sentito"]
 	},
 	{
 		"question": "Vari autori hanno invece contribuito ad evidenziare come i fenomeni complessi, soprattutto nel campo dell'Educational, necessitino di uno sguardo plurimo",
@@ -513,21 +436,11 @@
 	},
 	{
 		"question": "L'organizzazione dei circuiti neurali relativi alla stimolazione affettiva e all'auto-regolazione, nonché la loro capacità di attivarsi in risposta agli stimoli",
-		"answers": [
-			"Schore, 2000; Siegel, Bryson, 2020",
-			"Piaget",
-			"Rosati",
-			"Pestalozzi"
-		]
+		"answers": ["Schore, 2000; Siegel, Bryson, 2020", "Piaget", "Rosati", "Pestalozzi"]
 	},
 	{
 		"question": "Dal modello «logico globale» all'approccio neurologico",
-		"answers": [
-			"negli hub",
-			"nei processi modulari",
-			"nessuna risposta è corretta",
-			"nei processi"
-		]
+		"answers": ["negli hub", "nei processi modulari", "nessuna risposta è corretta", "nei processi"]
 	},
 	{
 		"question": "Le modalità di esercizio del diritto di cui al comma 1 sono determinate dai contratti collettivi nazionali di lavoro dei comparti interessati e",
@@ -550,21 +463,11 @@
 	},
 	{
 		"question": "Nella 170 del 2010 ci sono misure per i familiari?",
-		"answers": [
-			"si",
-			"indicano il patto di corresponsabilità",
-			"no",
-			"nessuna risposta è corretta"
-		]
+		"answers": ["si", "indicano il patto di corresponsabilità", "no", "nessuna risposta è corretta"]
 	},
 	{
 		"question": "La modalità learning together è di",
-		"answers": [
-			"Olson",
-			"slavin",
-			"Montessori",
-			"Johnson e Johnson"
-		]
+		"answers": ["Olson", "slavin", "Montessori", "Johnson e Johnson"]
 	},
 	{
 		"question": "Gruppo di apprendimento cooperativo ad alto rendimento:",
@@ -599,12 +502,7 @@
 	},
 	{
 		"question": "Quale, tra quelle elencate, non è un tipo di paideia",
-		"answers": [
-			"post moderna",
-			"rinascimentale",
-			"premoderna",
-			"moderna"
-		]
+		"answers": ["post moderna", "rinascimentale", "premoderna", "moderna"]
 	},
 	{
 		"question": "Gruppo di apprendimento cooperativo:",
@@ -617,21 +515,11 @@
 	},
 	{
 		"question": "La possibilità che nel gruppo qualcuno non si impegni si chiama:",
-		"answers": [
-			"social loafing",
-			"social skills",
-			"social interction",
-			"social education"
-		]
+		"answers": ["social loafing", "social skills", "social interction", "social education"]
 	},
 	{
 		"question": "Lo structural approach è di",
-		"answers": [
-			"Slavin",
-			"Olson",
-			"Goleman",
-			"kagan"
-		]
+		"answers": ["Slavin", "Olson", "Goleman", "kagan"]
 	},
 	{
 		"question": "I gruppi di base sono gruppi eterogenei a lungo termine,",
@@ -644,21 +532,11 @@
 	},
 	{
 		"question": "Lo student team learning è di",
-		"answers": [
-			"Slavin",
-			"Bruner",
-			"Olson",
-			"Rosati"
-		]
+		"answers": ["Slavin", "Bruner", "Olson", "Rosati"]
 	},
 	{
 		"question": "Il primo modello di pianificazione è di:",
-		"answers": [
-			"Johnson, Johnson e Holubec",
-			"Montessori",
-			"Piaget",
-			"Bruner e Hill"
-		]
+		"answers": ["Johnson, Johnson e Holubec", "Montessori", "Piaget", "Bruner e Hill"]
 	},
 	{
 		"question": "La Legge n. 53/2003",
@@ -690,12 +568,7 @@
 	},
 	{
 		"question": "La pedagogia inclusiva comporta la condivisione di principi che esprimono:",
-		"answers": [
-			"solidarietà e sussidiarietà",
-			"negoziazione",
-			"privazione",
-			"complessità"
-		]
+		"answers": ["solidarietà e sussidiarietà", "negoziazione", "privazione", "complessità"]
 	},
 	{
 		"question": "Il team docente per attuare una didattica trasversalmente inclusiva",
@@ -746,12 +619,7 @@
 	},
 	{
 		"question": "Quale autore reclama che “una buona educazione dei figli comincia dal cuore dei genitori”",
-		"answers": [
-			"Mencarelli",
-			"Bianchi",
-			"Rossi",
-			"Rosati"
-		]
+		"answers": ["Mencarelli", "Bianchi", "Rossi", "Rosati"]
 	},
 	{
 		"question": "La famiglia può essere considerata:",
@@ -764,21 +632,11 @@
 	},
 	{
 		"question": "Tutte le occasioni educative mosse dalla società e dalla cultura e per questo si parla di “società educante” e di “apprendere il proprio tempo con il pensiero",
-		"answers": [
-			"Fichte",
-			"Plotino",
-			"Hegel",
-			"Kant"
-		]
+		"answers": ["Fichte", "Plotino", "Hegel", "Kant"]
 	},
 	{
 		"question": "L'intelligenza emozionale è descritta da:",
-		"answers": [
-			"Goleman",
-			"Gentile",
-			"Dewey",
-			"Gardner"
-		]
+		"answers": ["Goleman", "Gentile", "Dewey", "Gardner"]
 	},
 	{
 		"question": "Cousinet avrebbe sintetizzato tale affermazione con l'espressione pedagogica della ricerca:",
@@ -791,12 +649,7 @@
 	},
 	{
 		"question": "Ogni tipo di relazione educativa deve basarsi su un rapporto empatico, un rapporto capace di produrre “atmosfere di apprendimento significativo”.",
-		"answers": [
-			"Duccio Demetrio",
-			"Carl Rogers",
-			"Riccardo Mancini",
-			"Don Milani"
-		]
+		"answers": ["Duccio Demetrio", "Carl Rogers", "Riccardo Mancini", "Don Milani"]
 	},
 	{
 		"question": "L'insegnante è parte integrante di tale struttura relazionale e la sua modalità di relazionarsi con la classe e con ciascun allievo è una componente",
@@ -829,12 +682,7 @@
 	},
 	{
 		"question": "Ogni processo di insegnamento-apprendimento avviene «attraverso relazioni tra docente-discente, discente-gruppo dei pari, docente-gruppo dei pari.",
-		"answers": [
-			"Mancini",
-			"Agazzi",
-			"Duccio",
-			"Bruner"
-		]
+		"answers": ["Mancini", "Agazzi", "Duccio", "Bruner"]
 	},
 	{
 		"question": "Mentre la ricerca muta i contenuti ed i metodi scientifici del lavoro scolastico, il lavoro di gruppo tocca il messaggio sociale e politico della scuola.",
@@ -868,12 +716,7 @@
 	},
 	{
 		"question": "Un educatore, quindi, è una persona che analizza in modo corretto",
-		"answers": [
-			"le LIM",
-			"il tempo e lo spazio",
-			"i banchi",
-			"i quaderni"
-		]
+		"answers": ["le LIM", "il tempo e lo spazio", "i banchi", "i quaderni"]
 	},
 	{
 		"question": "“Una riflessione sulla didattica, nella modellistica che privilegia la cultura a fondamento dell'azione volta a facilitare l'approccio del soggetto con l'universo",
@@ -925,11 +768,6 @@
 	},
 	{
 		"question": "A cosa si rifersce Goleman, quando descrive \"la prima scuola nella quale una persona apprende insegnamenti riguardati la vita affettiva\"",
-		"answers": [
-			"Scuola",
-			"sport",
-			"mondo del lavoro",
-			"Famiglia"
-		]
+		"answers": ["Scuola", "sport", "mondo del lavoro", "Famiglia"]
 	}
 ]

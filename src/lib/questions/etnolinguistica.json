@@ -102,12 +102,7 @@
 	},
 	{
 		"question": "Il modello COD è un modello",
-		"answers": [
-			"cognitivo",
-			"antropologico",
-			"sociolinguistico-economico",
-			"culturale"
-		]
+		"answers": ["cognitivo", "antropologico", "sociolinguistico-economico", "culturale"]
 	},
 	{
 		"question": "In Europa l'offerta di lingua italiana nelle scuole pubbliche è obbligatoria solo",
@@ -194,39 +189,19 @@
 	},
 	{
 		"question": "I gesti batonici svolgono una funzione",
-		"answers": [
-			"referenziale",
-			"narrativa",
-			"meta-pragmatica",
-			"simbolica"
-		]
+		"answers": ["referenziale", "narrativa", "meta-pragmatica", "simbolica"]
 	},
 	{
 		"question": "I gesti che hanno la funzione di localizzare nello spazio aspetti del contenuto verbale sono i",
-		"answers": [
-			"gesti deittici",
-			"gesti simbolici",
-			"i gesti batonici",
-			"gesti metaforici"
-		]
+		"answers": ["gesti deittici", "gesti simbolici", "i gesti batonici", "gesti metaforici"]
 	},
 	{
 		"question": "Secondo l'indagine di Del Campo (1997), in ogni interazione orale il 70% dell'informazione è veicolata da",
-		"answers": [
-			"intonazione",
-			"elementi prosodici",
-			"linguaggio non verbale",
-			"linguaggio verbale"
-		]
+		"answers": ["intonazione", "elementi prosodici", "linguaggio non verbale", "linguaggio verbale"]
 	},
 	{
 		"question": "La classificazione che organizza i gesti sulla base delle funzioni della lingua che essi realizzano è di tipo",
-		"answers": [
-			"semiotico",
-			"cinesico",
-			"sociolinguistico",
-			"pragmatico"
-		]
+		"answers": ["semiotico", "cinesico", "sociolinguistico", "pragmatico"]
 	},
 	{
 		"question": "Per sviluppare un'efficace competenza comunicativa occorre stimolare le competenze di tipo",
@@ -248,12 +223,7 @@
 	},
 	{
 		"question": "Il data-driven Learning è una pratica di insegnamento di tipo",
-		"answers": [
-			"psicologico",
-			"induttivo",
-			"deduttivo",
-			"cognitivo"
-		]
+		"answers": ["psicologico", "induttivo", "deduttivo", "cognitivo"]
 	},
 	{
 		"question": "Tra i punti di debolezza del DDL ritroviamo",
@@ -266,12 +236,7 @@
 	},
 	{
 		"question": "Il DDL permette di attivare procedure di",
-		"answers": [
-			"tutoring",
-			"astrazione",
-			"nessuna delle risposte",
-			"problem solving"
-		]
+		"answers": ["tutoring", "astrazione", "nessuna delle risposte", "problem solving"]
 	},
 	{
 		"question": "L'esperienza del gioco risulta utile nell'insegnamento-apprendimento",
@@ -293,39 +258,19 @@
 	},
 	{
 		"question": "Nella ludolinguistica il rebus costituisce un' attività con obiettivi di tipo",
-		"answers": [
-			"lessicale",
-			"sintattico",
-			"nessuna delle risposte",
-			"semiotico"
-		]
+		"answers": ["lessicale", "sintattico", "nessuna delle risposte", "semiotico"]
 	},
 	{
 		"question": "La consapevolezza morfologica favorisce lo sviluppo di capacità di tipo",
-		"answers": [
-			"fonologico",
-			"sublessicale",
-			"lessicale",
-			"tutte le risposte sono corrette"
-		]
+		"answers": ["fonologico", "sublessicale", "lessicale", "tutte le risposte sono corrette"]
 	},
 	{
 		"question": "Il processo che porta a elaborare e registare l'input linguistico a cui si è esposti è noto come",
-		"answers": [
-			"problem-solving",
-			"noticing",
-			"morphological awareness",
-			"spelling"
-		]
+		"answers": ["problem-solving", "noticing", "morphological awareness", "spelling"]
 	},
 	{
 		"question": "Incoraggiare lo sviluppo della consapevolezza morfologica costituisce un approccio di tipo",
-		"answers": [
-			"deduttivo",
-			"induttivo",
-			"psicologico",
-			"sperimentale"
-		]
+		"answers": ["deduttivo", "induttivo", "psicologico", "sperimentale"]
 	},
 	{
 		"question": "Rientrano tra gli errori morfologici",
@@ -347,21 +292,11 @@
 	},
 	{
 		"question": "Gli errori morfosintattici emergono più facilmente in un contesto",
-		"answers": [
-			"tutte le risposte sono corrette",
-			"didattico",
-			"guidato",
-			"di libertà espressiva"
-		]
+		"answers": ["tutte le risposte sono corrette", "didattico", "guidato", "di libertà espressiva"]
 	},
 	{
 		"question": "L'analisi degli errori morfosintattici degli studenti egiziani dimostra che la parte del discorso in cui gli studenti fanno più errori è",
-		"answers": [
-			"preposizione",
-			"aggettivo",
-			"pronome",
-			"congiunzione"
-		]
+		"answers": ["preposizione", "aggettivo", "pronome", "congiunzione"]
 	},
 	{
 		"question": "Per quanto riguarda gli errori relativi all'articolo commessi da studenti egiziani, l'errore dell'uso improprio dell'articolo è commesso dal",
@@ -392,12 +327,7 @@
 	},
 	{
 		"question": "La lingua della parentesi costituisce una lingua usata per scopi",
-		"answers": [
-			"letterari",
-			"tutte le risposte sono corrette",
-			"pratici",
-			"metalinguistici"
-		]
+		"answers": ["letterari", "tutte le risposte sono corrette", "pratici", "metalinguistici"]
 	},
 	{
 		"question": "Afasia, lingua della parentesi e lingua adottiva costituiscono",
@@ -446,12 +376,7 @@
 	},
 	{
 		"question": "Il primo studioso ad evidenziare il ruolo della scrittura nel processo di apprendimento di una lingua seconda è stato",
-		"answers": [
-			"Merrill Swain",
-			"Alister Cumming",
-			"Sharon Lapkin",
-			"Roca De Larios"
-		]
+		"answers": ["Merrill Swain", "Alister Cumming", "Sharon Lapkin", "Roca De Larios"]
 	},
 	{
 		"question": "Lo scaffolding è un meccanismo attivato dalla",
@@ -473,22 +398,11 @@
 	},
 	{
 		"question": "La fase in cui l'apprendente inizia ad ampliare la morfologia ed il lessico e comincia ad utilizzare, a livello sintattico, forme di subordinazione corrisponde",
-		"answers": [
-			"alla fase",
-			"nessuna delle risposte",
-			"post-basica",
-			"pre-basica",
-			"basica"
-		]
+		"answers": ["alla fase", "nessuna delle risposte", "post-basica", "pre-basica", "basica"]
 	},
 	{
 		"question": "Il fenomeno di fossilizzazione linguistica può verificarsi nella fase",
-		"answers": [
-			"basica",
-			"pre-basica",
-			"non si verifica mai",
-			"post-basica"
-		]
+		"answers": ["basica", "pre-basica", "non si verifica mai", "post-basica"]
 	},
 	{
 		"question": "Nella fase basica l'uso dei connettivi",
@@ -501,21 +415,11 @@
 	},
 	{
 		"question": "Il modello di competenza comunicativa è stato coniato da Hymes nel",
-		"answers": [
-			"1976",
-			"1977",
-			"1969",
-			"1967"
-		]
+		"answers": ["1976", "1977", "1969", "1967"]
 	},
 	{
 		"question": "Secondo il modello di competenza comunicativa la lingua si utilizza per",
-		"answers": [
-			"comunicare",
-			"pensare",
-			"riflettere",
-			"agire"
-		]
+		"answers": ["comunicare", "pensare", "riflettere", "agire"]
 	},
 	{
 		"question": "Il carattere letterario ed interculturale della competenza comunicativa si realizza",
@@ -555,22 +459,11 @@
 	},
 	{
 		"question": "Imparare a protestare in un modo appropriato e felice rientra tra le competenze di tipo",
-		"answers": [
-			"formale",
-			"linguistico",
-			"pragmatico",
-			"informale"
-		]
+		"answers": ["formale", "linguistico", "pragmatico", "informale"]
 	},
 	{
 		"question": "Un comportamento socialmente inaccettabile e le sue conseguenze negative sul parlante accompagnato dall'esigenza di una riparazione contraddistinguono",
-		"answers": [
-			"l'atto di",
-			"richiesta",
-			"protesta",
-			"lamentela",
-			"permesso"
-		]
+		"answers": ["l'atto di", "richiesta", "protesta", "lamentela", "permesso"]
 	},
 	{
 		"question": "Parolacce ed enfatizzazioni rientrano tra quegli elementi linguistici noti come",
@@ -583,12 +476,7 @@
 	},
 	{
 		"question": "È un mitigatore lessicale",
-		"answers": [
-			"magari",
-			"tutte le risposte sono corrette",
-			"credo",
-			"gentilmente"
-		]
+		"answers": ["magari", "tutte le risposte sono corrette", "credo", "gentilmente"]
 	},
 	{
 		"question": "In italia dopo il raggiungimento dell'unità politica, intellettuali e politici promuovevano",
@@ -620,12 +508,7 @@
 	},
 	{
 		"question": "Nell'ultimo decennio i convegni organizzati dal CIEBP sono stati",
-		"answers": [
-			"5",
-			"8",
-			"2",
-			"3"
-		]
+		"answers": ["5", "8", "2", "3"]
 	},
 	{
 		"question": "Dal 2007 il CIEBP ha stipulato una convenzione di collaborazione con",
@@ -683,21 +566,11 @@
 	},
 	{
 		"question": "I materiali didattici privilegiati nell'insegnamento della lingua a stranieri sono",
-		"answers": [
-			"i manuali cartacei",
-			"gli strumenti multimediali",
-			"le app",
-			"le risorse digitali"
-		]
+		"answers": ["i manuali cartacei", "gli strumenti multimediali", "le app", "le risorse digitali"]
 	},
 	{
 		"question": "L'uso delle risorse tecnologiche e multimediali nell'insegnamento della lingua è",
-		"answers": [
-			"eccessivo",
-			"predominante",
-			"costante",
-			"discontinuo"
-		]
+		"answers": ["eccessivo", "predominante", "costante", "discontinuo"]
 	},
 	{
 		"question": "I materiali didattici per l'integrazione linguistica devono tenere conto",
@@ -748,30 +621,15 @@
 	},
 	{
 		"question": "Gli studi sull'importanza percepita delle MotS si concentrano in",
-		"answers": [
-			"Medio Oriente",
-			"Stati Uniti",
-			"Asia Pacifica",
-			"Europa"
-		]
+		"answers": ["Medio Oriente", "Stati Uniti", "Asia Pacifica", "Europa"]
 	},
 	{
 		"question": "Il primo protocollo di ricerca empirica sulle strategie motivazionali venne formulato da",
-		"answers": [
-			"Shearin",
-			"Crookes",
-			"Gardner",
-			"Dornyei"
-		]
+		"answers": ["Shearin", "Crookes", "Gardner", "Dornyei"]
 	},
 	{
 		"question": "Pronunciare una L2 in modo corretto ha vantaggi di tipo",
-		"answers": [
-			"linguistico",
-			"cognitivo",
-			"psicologico",
-			"pragmatico"
-		]
+		"answers": ["linguistico", "cognitivo", "psicologico", "pragmatico"]
 	},
 	{
 		"question": "La percezione di una pronuncia corretta ha sulla comunicazione",
@@ -793,30 +651,15 @@
 	},
 	{
 		"question": "La definizione di usabilità, come attributo che misura quanto l'interfaccia utente sia facile da usare fu coniata da",
-		"answers": [
-			"Jakob Nielsen",
-			"Donald Norman",
-			"Henry Ford",
-			"Tim Berners-Lee"
-		]
+		"answers": ["Jakob Nielsen", "Donald Norman", "Henry Ford", "Tim Berners-Lee"]
 	},
 	{
 		"question": "L'idea dell'usabilità nasce nei primi del Novecento in risposta ad esigenze di tipo",
-		"answers": [
-			"linguistico",
-			"informatico",
-			"industriale",
-			"economico"
-		]
+		"answers": ["linguistico", "informatico", "industriale", "economico"]
 	},
 	{
 		"question": "Tra i dispositivi digitali quello più utilizzato nell'ambito dell'apprendimento linguistico risulta essere",
-		"answers": [
-			"tablet",
-			"smartphone",
-			"pc",
-			"nessuno dei tre"
-		]
+		"answers": ["tablet", "smartphone", "pc", "nessuno dei tre"]
 	},
 	{
 		"question": "Le aree tematiche relative a ciò che ogni docente di L2, secondo il profilo europeo, deve saper fare riguardano",
@@ -847,12 +690,7 @@
 	},
 	{
 		"question": "Il test MobIta è rivolto a studenti di livello",
-		"answers": [
-			"B2",
-			"C2",
-			"C1",
-			"B1"
-		]
+		"answers": ["B2", "C2", "C1", "B1"]
 	},
 	{
 		"question": "Tra le CALP rientrano",
@@ -874,21 +712,11 @@
 	},
 	{
 		"question": "Il progetto di ricerca condotto presso il centro linguistico dell'università di Padova promuove lo sviluppo della competenza",
-		"answers": [
-			"comunicativa",
-			"valutativa",
-			"autovalutativa",
-			"pragmatica"
-		]
+		"answers": ["comunicativa", "valutativa", "autovalutativa", "pragmatica"]
 	},
 	{
 		"question": "La sperimentazione del sillabo guidato interattivo, avvenuta presso il centro linguistico dell'università di Padova, è stata effettuta su",
-		"answers": [
-			"18 studenti",
-			"6 studenti",
-			"8 studenti",
-			"16 studenti"
-		]
+		"answers": ["18 studenti", "6 studenti", "8 studenti", "16 studenti"]
 	},
 	{
 		"question": "La nozione di push-pull è in contrapposizione a quella di",
@@ -901,13 +729,7 @@
 	},
 	{
 		"question": "Il fenomeno per cui un locutore A produce un enunciato X in una determinta lingua e un locutore B ripete e riformula X traducendolo in un'altra lingua è",
-		"answers": [
-			"noto come",
-			"ripetizione",
-			"etero-ripetizione",
-			"traduzione",
-			"auto-ripetizione"
-		]
+		"answers": ["noto come", "ripetizione", "etero-ripetizione", "traduzione", "auto-ripetizione"]
 	},
 	{
 		"question": "La didattica dell'intercomprensione si fonda su",
@@ -920,12 +742,7 @@
 	},
 	{
 		"question": "La prima attività comunicativa a svilupparsi sia in L1 sia in L2 è",
-		"answers": [
-			"la lettura",
-			"l'ascolto",
-			"il parlato",
-			"il giudizio critico"
-		]
+		"answers": ["la lettura", "l'ascolto", "il parlato", "il giudizio critico"]
 	},
 	{
 		"question": "Un approccio didattico della L2 per essere accessibile a bambini dislessici deve",
@@ -938,12 +755,7 @@
 	},
 	{
 		"question": "Il transfer e l'inferenza si riferiscono a processi",
-		"answers": [
-			"relativi ai codici delle lingue",
-			"cognitivi",
-			"metacognitivi",
-			"metastrategici"
-		]
+		"answers": ["relativi ai codici delle lingue", "cognitivi", "metacognitivi", "metastrategici"]
 	},
 	{
 		"question": "La corrispondenza biunivoca tra grafema e fonema rimanda al concetto di",
@@ -956,12 +768,7 @@
 	},
 	{
 		"question": "La traparenza lessicale è di tipo",
-		"answers": [
-			"bilaterale",
-			"biunivoco",
-			"interlinguistico",
-			"intralinguistico"
-		]
+		"answers": ["bilaterale", "biunivoco", "interlinguistico", "intralinguistico"]
 	},
 	{
 		"question": "Le competenze parziali si riferiscono alla capacità di",
@@ -1021,21 +828,11 @@
 	},
 	{
 		"question": "Nel concetto di intercultura, la cultura è intesa come",
-		"answers": [
-			"innata",
-			"socialmente costruita",
-			"reificata",
-			"determinata"
-		]
+		"answers": ["innata", "socialmente costruita", "reificata", "determinata"]
 	},
 	{
 		"question": "Il cooperative learning è considerata una metodologia didattica efficace per potenziare competenze di tipo",
-		"answers": [
-			"interculturale",
-			"psicologico",
-			"linguistico",
-			"cognitivo"
-		]
+		"answers": ["interculturale", "psicologico", "linguistico", "cognitivo"]
 	},
 	{
 		"question": "L'approccio della group investigation appartiene alla metodogia didattica",
@@ -1112,21 +909,11 @@
 	},
 	{
 		"question": "Il progetto MIRIADI, finanziato dall'agenzia esecutiva per l'istruzione, gli audiovisivi e la cultura riunisce",
-		"answers": [
-			"34 partner",
-			"32 partner",
-			"36 partner",
-			"38 partner"
-		]
+		"answers": ["34 partner", "32 partner", "36 partner", "38 partner"]
 	},
 	{
 		"question": "La lingua ritenuta difficile dai suoi stessi parlanti è",
-		"answers": [
-			"il romeno",
-			"il francese",
-			"il tedesco",
-			"il portoghese"
-		]
+		"answers": ["il romeno", "il francese", "il tedesco", "il portoghese"]
 	},
 	{
 		"question": "L'italiano si è dotato di grammatiche di riferimento",
@@ -1157,12 +944,7 @@
 	},
 	{
 		"question": "La comunità di YELL/TELL, a Luglio 2014, annovera",
-		"answers": [
-			"206 membri",
-			"202 membri",
-			"204 membri",
-			"200 membri"
-		]
+		"answers": ["206 membri", "202 membri", "204 membri", "200 membri"]
 	},
 	{
 		"question": "Le ragioni per una cattiva condotta degli studenti sono",
@@ -1211,12 +993,7 @@
 	},
 	{
 		"question": "In Italia è assai conosciuto il modello DMIS (Developmental Model of Intercultural Sensitivity) elaborato da",
-		"answers": [
-			"Schiller",
-			"Bennet",
-			"Salazar",
-			"Kesselring"
-		]
+		"answers": ["Schiller", "Bennet", "Salazar", "Kesselring"]
 	},
 	{
 		"question": "Per sviluppare condizioni di carattere interculturale",
@@ -1311,12 +1088,7 @@
 	},
 	{
 		"question": "Nell' indagine sull’ecologia linguistica in contesti familiari, quale momento della vita quotidiana è stato scelto come punto di osservazione?",
-		"answers": [
-			"il ritorno da scuola",
-			"momenti di svago",
-			"il pasto",
-			"il contesto domenicale"
-		]
+		"answers": ["il ritorno da scuola", "momenti di svago", "il pasto", "il contesto domenicale"]
 	},
 	{
 		"question": "È esprimendo",
@@ -1349,12 +1121,7 @@
 	},
 	{
 		"question": "La distinzione tra acquisizione e apprendimento risale a",
-		"answers": [
-			"Schmidt",
-			"Corder",
-			"Cummins",
-			"Krashen"
-		]
+		"answers": ["Schmidt", "Corder", "Cummins", "Krashen"]
 	},
 	{
 		"question": "La proposta di attività ludodidattiche agli adulti",
