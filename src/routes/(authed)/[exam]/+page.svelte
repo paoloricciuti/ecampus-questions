@@ -66,6 +66,7 @@
 						<label class="option">
 							<input
 								{...save_form.fields.answer.as('radio', answer_i.toString())}
+								onchange={() => save_form.submit()}
 								checked={answer_i === saved_answer?.answer}
 							/>
 							<span class="bubble">{String.fromCharCode(65 + answer_i)}</span>
