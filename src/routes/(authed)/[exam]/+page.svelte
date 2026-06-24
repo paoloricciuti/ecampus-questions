@@ -1,25 +1,54 @@
 <script lang="ts">
+	import { page } from '$app/state';
 	import { resolve } from '$app/paths';
 	import { questions as all_questions } from '$lib/questions/questions';
 	import { get_answers, save_answer } from './questions.remote';
 
+	type AnswerStatus = 'all' | 'with' | 'without';
+	type AnswerStatusOption = {
+		value: AnswerStatus;
+		label: string;
+		count: number;
+	};
+
 	const { params } = $props();
 	const questions = $derived(all_questions[params.exam]);
 	const answers = $derived(await get_answers(params.exam));
+	const answered_question_ids = $derived(new Set(answers.map((answer) => answer.question_id)));
 	const answered_count = $derived(answers.length);
+	const unanswered_count = $derived(questions.length - answered_count);
 	const progress = $derived(questions.length ? (answered_count / questions.length) * 100 : 0);
 	const exam_title = $derived(params.exam.replaceAll('-', ' '));
+	const answer_status = $derived.by<AnswerStatus>(() => {
+		const value = page.url.searchParams.get('answer_status');
+
+		return value === 'with' || value === 'without' ? value : 'all';
+	});
+	const answer_status_options = $derived<AnswerStatusOption[]>([
+		{ value: 'all', label: 'Tutte', count: questions.length },
+		{ value: 'with', label: 'Con risposta', count: answered_count },
+		{ value: 'without', label: 'Senza risposta', count: unanswered_count }
+	]);
 	let search = $state('');
 	const filtered_questions = $derived.by(() => {
 		const needle = search.trim().toLowerCase();
 
-		if (!needle) return questions.map((question, i) => ({ question, i }));
-
 		return questions
 			.map((question, i) => ({ question, i }))
-			.filter(({ question }) =>
-				[question.question, ...question.answers].some((text) => text.toLowerCase().includes(needle))
-			);
+			.filter(({ i }) => {
+				if (answer_status === 'all') return true;
+
+				const has_answer = answered_question_ids.has(i);
+
+				return answer_status === 'with' ? has_answer : !has_answer;
+			})
+			.filter(({ question }) => {
+				if (!needle) return true;
+
+				return [question.question, ...question.answers].some((text) =>
+					text.toLowerCase().includes(needle)
+				);
+			});
 	});
 </script>
 
@@ -41,6 +70,21 @@
 		<span>Cerca nelle domande</span>
 		<input bind:value={search} type="search" placeholder="Filtra per testo o risposta" />
 	</label>
+	<nav class="answer-filter" aria-label="Filtra per stato risposta">
+		<div class="filter-links">
+			{#each answer_status_options as option (option.value)}
+				<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -->
+				<a
+					href={resolve(`/(authed)/[exam]?answer_status=${option.value}`, { exam: params.exam })}
+					class:active-filter={answer_status === option.value}
+					aria-current={answer_status === option.value ? 'page' : undefined}
+				>
+					<span>{option.label}</span>
+					<span class="filter-count">{option.count}</span>
+				</a>
+			{/each}
+		</div>
+	</nav>
 </div>
 
 <ol class="sheet" aria-label={`Domande di ${exam_title}`}>
@@ -88,8 +132,11 @@
 	{/each}
 </ol>
 
-{#if search && filtered_questions.length === 0}
-	<p class="empty">Nessuna domanda trovata per "{search}".</p>
+{#if (search || answer_status !== 'all') && filtered_questions.length === 0}
+	<p class="empty">
+		Nessuna domanda trovata{#if search}
+			per "{search}"{/if}.
+	</p>
 {/if}
 
 <style>
@@ -180,12 +227,15 @@
 		display: grid;
 		gap: 0.45rem;
 		max-width: 32rem;
-		margin-top: 1rem;
 		color: var(--ink-soft);
 		font-size: 0.72rem;
 		font-weight: 700;
 		letter-spacing: 0.12em;
 		text-transform: uppercase;
+	}
+
+	.search {
+		margin-top: 1rem;
 	}
 
 	.search input {
@@ -202,9 +252,63 @@
 		text-transform: none;
 	}
 
-	.search input:focus {
+	.search input:focus,
+	.answer-filter a:focus-visible {
 		outline: 2px solid var(--accent);
 		outline-offset: 2px;
+	}
+
+	.answer-filter {
+		display: grid;
+		gap: 0.55rem;
+		margin-top: 1rem;
+	}
+
+	.filter-label {
+		color: var(--ink-soft);
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+	}
+
+	.filter-links {
+		display: flex;
+		align-items: center;
+		gap: 0.45rem;
+		flex-wrap: wrap;
+	}
+
+	.answer-filter a {
+		display: inline-flex;
+		align-items: baseline;
+		gap: 0.45rem;
+		padding: 0.52rem 0.72rem;
+		border: 1px solid var(--rule-strong);
+		border-radius: 999px;
+		background: var(--paper-raised);
+		color: var(--ink-soft);
+		font-size: 0.88rem;
+		font-weight: 500;
+		text-decoration: none;
+		transition:
+			background 160ms var(--ease),
+			border-color 160ms var(--ease),
+			color 160ms var(--ease);
+	}
+
+	.answer-filter a:hover,
+	.answer-filter a.active-filter {
+		border-color: var(--ink);
+		background: var(--ink);
+		color: var(--paper-raised);
+	}
+
+	.filter-count {
+		font-family: var(--font-mono);
+		font-size: 0.75rem;
+		font-variant-numeric: tabular-nums;
+		opacity: 0.72;
 	}
 
 	.sheet {
