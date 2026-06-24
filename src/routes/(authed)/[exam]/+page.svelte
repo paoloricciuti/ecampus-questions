@@ -431,4 +431,47 @@
 			margin-top: 0;
 		}
 	}
+
+	@media print {
+		.exam-head,
+		.margin,
+		.actions,
+		.empty {
+			display: none;
+		}
+
+		.sheet {
+			list-style: decimal;
+			padding-left: 1.5rem;
+		}
+
+		.question {
+			display: list-item;
+			break-inside: avoid;
+			padding: 0 0 1rem;
+			border-top: 0;
+		}
+
+		.body {
+			gap: 0.6rem;
+		}
+
+		.option {
+			break-inside: avoid;
+			padding: 0.2rem 0;
+			color: var(--ink);
+		}
+
+		.option:has(input:checked) {
+			font-weight: 700;
+			color: #000;
+		}
+		.option:has(input:checked) .bubble {
+			-webkit-print-color-adjust: exact;
+			print-color-adjust: exact;
+			background: #000;
+			border-color: #000;
+			color: #fff;
+		}
+	}
 </style>
