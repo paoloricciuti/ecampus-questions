@@ -88,7 +88,8 @@
 </div>
 
 <ol class="sheet" aria-label={`Domande di ${exam_title}`}>
-	{#each filtered_questions as { question, i } (question.question)}
+	<!-- eslint-disable-next-line svelte/require-each-key -->
+	{#each filtered_questions as { question, i }}
 		{@const saved_answer = answers.find((a) => a.question_id === i)}
 		{@const save_form = save_answer.for(i)}
 		<li class={{ question: true, answered: !!saved_answer }}>
